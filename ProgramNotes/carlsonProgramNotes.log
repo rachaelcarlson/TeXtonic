@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  23 MAR 2017 11:27
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  23 MAR 2017 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1053,12 +1053,12 @@ uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
 Missing character: There is no ♭ in font Adobe Garamond Pro/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
  [4] [5]
-Overfull \hbox (4.76517pt too wide) in paragraph at lines 148--148
+Overfull \hbox (4.76517pt too wide) in paragraph at lines 162--162
 |\EU1/AdobeGaramondPro(0)/m/it/10.95 Six-String Suite: “Eggtooth”/“Grim to the 
 Brim”/“Orange Room” by Leo Kottke| 
  []
 
-[6] [7] [8]
+[6] [7]
 Missing character: There is no ① in font Adobe Garamond Pro/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
 Missing character: There is no ② in font Adobe Garamond Pro/OT:script=latn;lang
@@ -1069,6 +1069,7 @@ Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lan
 uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
 Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
+ [8]
 Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
 Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
@@ -1080,25 +1081,25 @@ uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
 Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
 uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
  [9]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 192
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 206
 .
  (/usr/share/texmf/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Missing character: There is no 𝄌 in font [lmmono12-regular]!
- [10]
+
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
-[11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
  (./carlsonProgramNotes.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 195.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 195.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 195.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 209.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 209.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
  ) 
 Here is how much of TeX's memory you used:
  23819 strings out of 493591
@@ -1107,6 +1108,6 @@ Here is how much of TeX's memory you used:
  26992 multiletter control sequences out of 15000+600000
  4489 words of font info for 38 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 63i,11n,76p,10442b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,76p,10442b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on carlsonProgramNotes.pdf (11 pages).
+Output written on carlsonProgramNotes.pdf (10 pages).
