@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  24 MAR 2017 00:05
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.24)  24 MAR 2017 14:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -796,37 +796,29 @@ Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \colbreak@box=\box76
 \mc@col@check@num=\count153
 )))
-\g__fontspec_family_EBGaramond_int=\count154
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font EB Garamond/B (it probably doesn't exist).
-.................................................
+\g__fontspec_family_AdobeGaramondPro_int=\count154
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(0)' created for font 'EB Garamond' with options
-. [Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle].
+. Font family 'AdobeGaramondPro(0)' created for font 'Adobe Garamond Pro' with
+. options [Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle].
 . 
 . This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"EB
-. Garamond/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum
-;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"EB
-. Garamond/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum
-;+smcp;"-
-. 'italic' (m/it) with NFSS spec.: <->"EB
-. Garamond/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+on
-um;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"EB
-. Garamond/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+on
-um;+smcp;"-
-. 'bold italic' (bx/it) with NFSS spec.: <->"EB
-. Garamond/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+o
-num;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"EB
-. Garamond/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+o
-num;+smcp;"
+. - 'normal' (m/n) with NFSS spec.: <->"Adobe Garamond
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Adobe Garamond
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;+smc
+p;"-
+. 'bold' (bx/n) with NFSS spec.: <->"Adobe Garamond
+. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"Adobe Garamond
+. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
+. with NFSS spec.: <->"Adobe Garamond
+. Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
+
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 .................................................
 . fontspec info: "no-scripts"
@@ -861,35 +853,34 @@ num;+smcp;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 .................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font EB Garamond/B (it probably doesn't exist).
-.................................................
-.................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(1)' created for font 'EB Garamond' with options
-. [WordSpace={1,0,0},PunctuationSpace=WordSpace].
+. Font family 'AdobeGaramondPro(1)' created for font 'Adobe Garamond Pro' with
+. options [WordSpace={1,0,0},PunctuationSpace=WordSpace].
 . 
 . This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"EB
-. Garamond/OT:script=latn;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"EB
-. Garamond/OT:script=latn;language=DFLT;+smcp;"
+. - 'normal' (m/n) with NFSS spec.: <->"Adobe Garamond
+. Pro/OT:script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Adobe Garamond
+. Pro/OT:script=latn;language=DFLT;+smcp;"
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. - 'italic' (m/it) with NFSS spec.: <->"EB
-. Garamond/I/OT:script=latn;language=DFLT;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"EB
-. Garamond/I/OT:script=latn;language=DFLT;+smcp;"
+. - 'bold' (bx/n) with NFSS spec.: <->"Adobe Garamond
+. Pro/B/OT:script=latn;language=DFLT;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
-. - 'bold italic' (bx/it) with NFSS spec.: <->"EB
-. Garamond/BI/OT:script=latn;language=DFLT;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"EB
-. Garamond/BI/OT:script=latn;language=DFLT;+smcp;"
+. - 'italic' (m/it) with NFSS spec.: <->"Adobe Garamond
+. Pro/I/OT:script=latn;language=DFLT;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: 
+. and font adjustment code:
+. \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
+. \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font
+. - 'bold italic' (bx/it) with NFSS spec.: <->"Adobe Garamond
+. Pro/BI/OT:script=latn;language=DFLT;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 . and font adjustment code:
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font 
@@ -1211,40 +1202,40 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/EBGaramond(0)/m/n on input line 34.
-
+(Font)                  OT1/cmr/m/n --> EU1/AdobeGaramondPro(0)/m/n on input li
+ne 34.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `bold' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(0)/m/n on input line 34
-.
+(Font)                  OT1/cmr/bx/n --> EU1/AdobeGaramondPro(0)/m/n on input l
+ine 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/m/n on inpu
-t line 34.
+(Font)                  EU1/AdobeGaramondPro(0)/m/n --> EU1/AdobeGaramondPro(0)
+/m/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/EBGaramond(0)/m/it on input line 3
-4.
+(Font)                  OT1/cmr/m/it --> EU1/AdobeGaramondPro(0)/m/it on input 
+line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/EBGaramond(0)/bx/n on input line 3
-4.
+(Font)                  OT1/cmr/bx/n --> EU1/AdobeGaramondPro(0)/bx/n on input 
+line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> EU1/NotoSansSymbols(0)/m/n on input li
 ne 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/EBGaramond(1)/m/n on input line 34
-.
+(Font)                  OT1/cmtt/m/n --> EU1/AdobeGaramondPro(1)/m/n on input l
+ine 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/EBGaramond(0)/m/n --> EU1/EBGaramond(0)/bx/n on inp
-ut line 34.
+(Font)                  EU1/AdobeGaramondPro(0)/m/n --> EU1/AdobeGaramondPro(0)
+/bx/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/EBGaramond(0)/bx/it on input line
- 34.
+(Font)                  OT1/cmr/bx/it --> EU1/AdobeGaramondPro(0)/bx/it on inpu
+t line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/NotoSansSymbols(0)/bx/n on input 
 line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/EBGaramond(1)/bx/n on input line 3
-4.
+(Font)                  OT1/cmtt/m/n --> EU1/AdobeGaramondPro(1)/bx/n on input 
+line 34.
 \AtBeginShipoutBox=\box77
 Package hyperref Info: Link coloring OFF on input line 34.
 
@@ -1314,35 +1305,30 @@ Package biblatex Info: ... file 'testDraft.bbl' found.
 Package biblatex Info: Reference section=0 on input line 34.
 Package biblatex Info: Reference segment=0 on input line 34.
 .................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font EB Garamond/B (it probably doesn't exist).
-.................................................
-.................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'EBGaramond(2)' created for font 'EB Garamond' with options
-. [Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle,LetterSpace=10].
+. Font family 'AdobeGaramondPro(2)' created for font 'Adobe Garamond Pro' with
+. options [Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle,LetterSpace=10].
 . 
 . This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"EB
-. Garamond/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum
-;letterspace=10;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"EB
-. Garamond/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum
-;letterspace=10;+smcp;"-
-. 'italic' (m/it) with NFSS spec.: <->"EB
-. Garamond/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+on
-um;letterspace=10;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"EB
-. Garamond/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+on
-um;letterspace=10;+smcp;"-
-. 'bold italic' (bx/it) with NFSS spec.: <->"EB
-. Garamond/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+o
-num;letterspace=10;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"EB
-. Garamond/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+o
-num;letterspace=10;+smcp;"
+. - 'normal' (m/n) with NFSS spec.: <->"Adobe Garamond
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;lett
+erspace=10;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Adobe Garamond
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;lett
+erspace=10;+smcp;"-
+. 'bold' (bx/n) with NFSS spec.: <->"Adobe Garamond
+. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;le
+tterspace=10;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"Adobe Garamond
+. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;le
+tterspace=10;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
+. with NFSS spec.: <->"Adobe Garamond
+. Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;l
+etterspace=10;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 38.
@@ -1350,7 +1336,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 38.
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]\EU1/EBGaramond(0)/m/n/8 I don’t have a source for this. It would be
+[]\EU1/AdobeGaramondPro(0)/m/n/8 I don’t have a source for this. It would
  []
 
 
@@ -1359,96 +1345,118 @@ LaTeX Warning: Marginpar on page 1 moved.
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-[]\EU1/EBGaramond(0)/m/n/8 I need to find a citation for this. It
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]\EU1/AdobeGaramondPro(0)/m/n/10 Number of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-\EU1/EBGaramond(0)/m/n/8 might be in Paul Rand, \EU1/EBGaramond(0)/m/it/8 Paul 
-Rand: A De-
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[]\EU1/AdobeGaramondPro(0)/m/n/10 artist makes no overt claim to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-\EU1/EBGaramond(0)/m/it/8 signer’s Art\EU1/EBGaramond(0)/m/n/8 , (New Haven: Ya
-le University
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+[]\EU1/AdobeGaramondPro(0)/m/n/10 reviews of artist by artists and other
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]\EU1/AdobeGaramondPro(0)/m/n/8 I need to find a citation for this. It
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-\EU1/EBGaramond(0)/m/n/8 Press, 1985) or Paul Rand, \EU1/EBGaramond(0)/m/it/8 F
-rom Lascaux to
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\EU1/AdobeGaramondPro(0)/m/n/8 might be in Paul Rand, \EU1/AdobeGaramondPro(0)/
+m/it/8 Paul Rand: A De-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-\EU1/EBGaramond(0)/m/it/8 Brooklyn\EU1/EBGaramond(0)/m/n/8 , (New Haven: Yale U
-niversity Press,
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\EU1/AdobeGaramondPro(0)/m/it/8 signer’s Art\EU1/AdobeGaramondPro(0)/m/n/8 , (N
+ew Haven: Yale University
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-\EU1/EBGaramond(0)/m/n/8 1985), or Paul Rand, \EU1/EBGaramond(0)/m/it/8 Design 
-Form and Chaos\EU1/EBGaramond(0)/m/n/8 ,
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\EU1/AdobeGaramondPro(0)/m/n/8 Press, 1985) or Paul Rand, \EU1/AdobeGaramondPro
+(0)/m/it/8 From Lascaux to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\EU1/AdobeGaramondPro(0)/m/it/8 Brooklyn\EU1/AdobeGaramondPro(0)/m/n/8 , (New H
+aven: Yale University Press,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\EU1/AdobeGaramondPro(0)/m/n/8 1985), or Paul Rand, \EU1/AdobeGaramondPro(0)/m/
+it/8 Design Form and Chaos\EU1/AdobeGaramondPro(0)/m/n/8 ,
  []
 
 File: watchTheTigerWalk1-2c.pdf Graphic file (type QTm)
-<use  "watchTheTigerWalk1-2c.pdf" > [2]
+<use  "watchTheTigerWalk1-2c.pdf" >
 
 LaTeX Warning: Marginpar on page 3 moved.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 116.
+(Font)              <9> on input line 140.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 116.
+(Font)              <6> on input line 140.
 [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 133.
+(Font)              <8> on input line 157.
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-[][][]\EU1/EBGaramond(0)/m/n/8 Adobe Systems Incorporated, “Gara-
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+[][][]\EU1/AdobeGaramondPro(0)/m/n/8 Adobe Systems Incorporated, “Gara-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\EU1/EBGaramond(0)/m/n/8 mond Premier Pro,” \EU1/EBGaramond(0)/m/it/8 Adobe Typ
-ekit\EU1/EBGaramond(0)/m/n/8 , 2017,
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+\EU1/AdobeGaramondPro(0)/m/n/8 mond Premier Pro,” \EU1/AdobeGaramondPro(0)/m/it
+/8 Adobe Typekit\EU1/AdobeGaramondPro(0)/m/n/8 , 2017,
  []
 
 
-Underfull \hbox (badness 2922) in paragraph at lines 133--133
-[][][][][] [] [][][][][][][][] [][] [][][][][][][]$[]\EU1/EBGaramond(0)/m/n/8 ;
- [][]Hoefler & Co.,
+Underfull \hbox (badness 1248) in paragraph at lines 157--157
+\EU1/AdobeGaramondPro(0)/m/n/8 accessed March 18, 2017, []$[][][][][] [] [] [] 
+[][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\EU1/EBGaramond(0)/m/n/8 “Whitney,” \EU1/EBGaramond(0)/m/it/8 Fonts by Hoefler 
-& Co. \EU1/EBGaramond(0)/m/n/8 2017, ac-
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+\EU1/AdobeGaramondPro(0)/m/n/8 Co., “Whitney,” \EU1/AdobeGaramondPro(0)/m/it/8 
+Fonts by Hoefler & Co. \EU1/AdobeGaramondPro(0)/m/n/8 2017,
  []
 
 
-LaTeX Warning: Marginpar on page 4 moved.
+Underfull \hbox (badness 3058) in paragraph at lines 157--157
+\EU1/AdobeGaramondPro(0)/m/n/8 accessed March 18, 2017, []$[][][][][] [] [] [] 
+[][][] []
+ []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
+
+LaTeX Warning: Marginpar on page 5 moved.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
  (./testDraft.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 139.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 139.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 163.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 163.
 Package logreq Info: Writing requests to 'testDraft.run.xml'.
 \openout1 = `testDraft.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 30895 strings out of 493591
- 553417 string characters out of 6150859
- 1157198 words of memory out of 5000000
- 33984 multiletter control sequences out of 15000+600000
- 7288 words of font info for 55 fonts, out of 8000000 for 9000
+ 30891 strings out of 493591
+ 553538 string characters out of 6150859
+ 1158624 words of memory out of 5000000
+ 33977 multiletter control sequences out of 15000+600000
+ 7304 words of font info for 57 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 63i,11n,68p,10411b,4787s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,13n,68p,10411b,4787s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on testDraft.pdf (4 pages).
+Output written on testDraft.pdf (5 pages).
