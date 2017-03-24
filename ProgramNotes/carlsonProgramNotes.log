@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  23 MAR 2017 21:42
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  23 MAR 2017 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1066,32 +1066,32 @@ rim”/“Orange Room” by Leo Kot-
  []
 
 [6] [7]
-Overfull \hbox (1.97003pt too wide) in paragraph at lines 224--225
+Overfull \hbox (1.97003pt too wide) in paragraph at lines 235--236
 \EU1/LibertinusSerif(0)/m/it/10 Klangfarbenmelodie \EU1/LibertinusSerif(0)/m/n/
 10 is a term coined by Arnold Schoenberg in \EU1/LibertinusSerif(0)/m/it/10 Har
 monielehre 
  []
 
 [8] [9]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 244
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 255
 .
  (/usr/share/texmf/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Missing character: There is no 𝄌 in font [lmmono12-regular]!
- [10]
+
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
-[11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 258.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 258.
  (./carlsonProgramNotes.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 247.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 258.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 258.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 258.
  ) 
 Here is how much of TeX's memory you used:
  23849 strings out of 493591
@@ -1100,6 +1100,6 @@ Here is how much of TeX's memory you used:
  27011 multiletter control sequences out of 15000+600000
  4521 words of font info for 42 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 63i,11n,76p,10442b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,76p,10442b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on carlsonProgramNotes.pdf (11 pages).
+Output written on carlsonProgramNotes.pdf (10 pages).
