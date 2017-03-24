@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  23 MAR 2017 11:53
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  23 MAR 2017 21:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -807,50 +807,62 @@ Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \colbreak@box=\box76
 \mc@col@check@num=\count154
 )))
-\g__fontspec_family_AdobeGaramondPro_int=\count155
+\g__fontspec_family_LibertinusSerif_int=\count155
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'AdobeGaramondPro(0)' created for font 'Adobe Garamond Pro' with
+. Font family 'LibertinusSerif(0)' created for font 'Libertinus Serif' with
 . options [Ligatures=TeX,Ligatures=TeX,Numbers=OldStyle].
 . 
 . This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"Adobe Garamond
-. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"Adobe Garamond
-. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;+smc
-p;"-
-. 'bold' (bx/n) with NFSS spec.: <->"Adobe Garamond
-. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
-. spec.: <->"Adobe Garamond
-. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.: <->"Adobe Garamond
-. Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
-
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+. - 'normal' (m/n) with NFSS spec.: <->"Libertinus
+. Serif/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Libertinus
+. Serif/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;+s
+mcp;"-
+. 'bold' (bx/n) with NFSS spec.: <->"Libertinus
+. Serif/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;
+"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Libertinus
+. Serif/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;
++smcp;"-
+. 'italic' (m/it) with NFSS spec.: <->"Libertinus
+. Serif/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;
+"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Libertinus
+. Serif/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;
++smcp;"-
+. 'bold italic' (bx/it) with NFSS spec.: <->"Libertinus
+. Serif/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum
+;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Libertinus
+. Serif/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum
+;+smcp;"
 .................................................
+\g__fontspec_family_LibertinusSans_int=\count156
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'AdobeGaramondPro(1)' created for font 'Adobe Garamond Pro' with
+. Font family 'LibertinusSans(0)' created for font 'Libertinus Sans' with
 . options [Ligatures=TeX].
 . 
 . This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"Adobe Garamond
-. Pro/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"Adobe Garamond
-. Pro/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'bold' (bx/n)
-. with NFSS spec.: <->"Adobe Garamond
-. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
-. spec.: <->"Adobe Garamond
-. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.: <->"Adobe Garamond
-. Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+. - 'normal' (m/n) with NFSS spec.: <->"Libertinus
+. Sans/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Libertinus
+. Sans/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'bold' (bx/n)
+. with NFSS spec.: <->"Libertinus
+. Sans/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Libertinus
+. Sans/B/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'italic'
+. (m/it) with NFSS spec.: <->"Libertinus
+. Sans/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Libertinus
+. Sans/I/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'bold italic'
+. (bx/it) with NFSS spec.: <->"Libertinus
+. Sans/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Libertinus
+. Sans/BI/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"
 .................................................
  (./carlsonProgramNotes.aux)
 \openout1 = `carlsonProgramNotes.aux'.
@@ -915,36 +927,36 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 19.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/AdobeGaramondPro(0)/m/n on input li
-ne 19.
+(Font)                  OT1/cmr/m/n --> EU1/LibertinusSerif(0)/m/n on input lin
+e 19.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `bold' on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/AdobeGaramondPro(0)/m/n on input l
-ine 19.
+(Font)                  OT1/cmr/bx/n --> EU1/LibertinusSerif(0)/m/n on input li
+ne 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/AdobeGaramondPro(0)/m/n --> EU1/AdobeGaramondPro(0)
-/m/n on input line 19.
+(Font)                  EU1/LibertinusSerif(0)/m/n --> EU1/LibertinusSerif(0)/m
+/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/AdobeGaramondPro(0)/m/it on input 
-line 19.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/AdobeGaramondPro(0)/bx/n on input 
-line 19.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/AdobeGaramondPro(1)/m/n on input l
+(Font)                  OT1/cmr/m/it --> EU1/LibertinusSerif(0)/m/it on input l
 ine 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/LibertinusSerif(0)/bx/n on input l
+ine 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/LibertinusSans(0)/m/n on input lin
+e 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 19.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/AdobeGaramondPro(0)/m/n --> EU1/AdobeGaramondPro(0)
-/bx/n on input line 19.
+(Font)                  EU1/LibertinusSerif(0)/m/n --> EU1/LibertinusSerif(0)/b
+x/n on input line 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/AdobeGaramondPro(0)/bx/it on inpu
-t line 19.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/AdobeGaramondPro(1)/bx/n on input
+(Font)                  OT1/cmr/bx/it --> EU1/LibertinusSerif(0)/bx/it on input
  line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/LibertinusSans(0)/bx/n on input l
+ine 19.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 19.
 \AtBeginShipoutBox=\box77
@@ -956,7 +968,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texmf/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count156
+\c@section@level=\count157
 )
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
@@ -1008,106 +1020,86 @@ LaTeX Info: Redefining \selectfont on input line 19.
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'AdobeGaramondPro(2)' created for font 'Adobe Garamond Pro' with
+. Font family 'LibertinusSerif(1)' created for font 'Libertinus Serif' with
 . options [Ligatures=TeX,Ligatures=TeX,Numbers=OldStyle,LetterSpace=10].
 . 
 . This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"Adobe Garamond
-. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;lett
-erspace=10;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"Adobe Garamond
-. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;lett
-erspace=10;+smcp;"-
-. 'bold' (bx/n) with NFSS spec.: <->"Adobe Garamond
-. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;le
+. - 'normal' (m/n) with NFSS spec.: <->"Libertinus
+. Serif/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;le
 tterspace=10;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
-. spec.: <->"Adobe Garamond
-. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;le
-tterspace=10;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.: <->"Adobe Garamond
-. Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;l
-etterspace=10;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Libertinus
+. Serif/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;le
+tterspace=10;+smcp;"-
+. 'bold' (bx/n) with NFSS spec.: <->"Libertinus
+. Serif/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;
+letterspace=10;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Libertinus
+. Serif/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;
+letterspace=10;+smcp;"-
+. 'italic' (m/it) with NFSS spec.: <->"Libertinus
+. Serif/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;
+letterspace=10;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Libertinus
+. Serif/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum;
+letterspace=10;+smcp;"-
+. 'bold italic' (bx/it) with NFSS spec.: <->"Libertinus
+. Serif/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum
+;letterspace=10;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Libertinus
+. Serif/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+onum
+;letterspace=10;+smcp;"
 .................................................
 [1
 
 ]
-Overfull \hbox (4.92215pt too wide) in paragraph at lines 84--84
-|\EU1/AdobeGaramondPro(0)/m/it/10.95 Partita No. 3 in E Major: III. Gavotte en 
-Rondeau by Johann Sebastian Bach,
- []
-
-
-Overfull \hbox (1.69002pt too wide) in paragraph at lines 91--113
-\EU1/AdobeGaramondPro(0)/m/n/10 In preparing the arrangement of this movement, 
-I used two different manuscripts 
+Overfull \hbox (17.2409pt too wide) in paragraph at lines 84--84
+|\EU1/LibertinusSerif(0)/m/it/10.95 Partita No. 3 in E Major: III. Gavotte en R
+ondeau by Johann Sebastian Bach,
  []
 
 [2
 
-] [3]
-Missing character: There is no ♭ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ♭ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
- [4] [5]
-Overfull \hbox (4.76517pt too wide) in paragraph at lines 162--162
-|\EU1/AdobeGaramondPro(0)/m/it/10.95 Six-String Suite: “Eggtooth”/“Grim to the 
-Brim”/“Orange Room” by Leo Kottke| 
+] [3] [4] [5]
+Overfull \hbox (16.75545pt too wide) in paragraph at lines 165--165
+|\EU1/LibertinusSerif(0)/m/it/10.95 Six-String Suite: “Eggtooth”/“Grim to the B
+rim”/“Orange Room” by Leo Kot-
  []
 
 [6] [7]
-Missing character: There is no ① in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ② in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ③ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
- [8]
-Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
-Missing character: There is no ♯ in font Adobe Garamond Pro/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;mapping=tex-text;+onum;!
- [9]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 206
+Overfull \hbox (1.97003pt too wide) in paragraph at lines 189--190
+\EU1/LibertinusSerif(0)/m/it/10 Klangfarbenmelodie \EU1/LibertinusSerif(0)/m/n/
+10 is a term coined by Arnold Schoenberg in \EU1/LibertinusSerif(0)/m/it/10 Har
+monielehre 
+ []
+
+[8] [9]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 209
 .
  (/usr/share/texmf/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Missing character: There is no 𝄌 in font [lmmono12-regular]!
-
+ [10]
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
-[10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+[11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
  (./carlsonProgramNotes.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 209.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 209.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 212.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 212.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
  ) 
 Here is how much of TeX's memory you used:
- 23819 strings out of 493591
- 420238 string characters out of 6150859
- 465638 words of memory out of 5000000
- 26992 multiletter control sequences out of 15000+600000
- 4489 words of font info for 38 fonts, out of 8000000 for 9000
+ 23849 strings out of 493591
+ 421465 string characters out of 6150859
+ 467713 words of memory out of 5000000
+ 27011 multiletter control sequences out of 15000+600000
+ 4521 words of font info for 42 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 63i,11n,76p,10442b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,76p,10442b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on carlsonProgramNotes.pdf (10 pages).
+Output written on carlsonProgramNotes.pdf (11 pages).
