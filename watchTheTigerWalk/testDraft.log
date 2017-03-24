@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.24)  24 MAR 2017 14:46
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.24)  24 MAR 2017 15:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1345,51 +1345,51 @@ LaTeX Warning: Marginpar on page 1 moved.
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 []\EU1/AdobeGaramondPro(0)/m/n/10 Number of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 []\EU1/AdobeGaramondPro(0)/m/n/10 artist makes no overt claim to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 []\EU1/AdobeGaramondPro(0)/m/n/10 reviews of artist by artists and other
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
 []\EU1/AdobeGaramondPro(0)/m/n/8 I need to find a citation for this. It
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
 \EU1/AdobeGaramondPro(0)/m/n/8 might be in Paul Rand, \EU1/AdobeGaramondPro(0)/
 m/it/8 Paul Rand: A De-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
 \EU1/AdobeGaramondPro(0)/m/it/8 signer’s Art\EU1/AdobeGaramondPro(0)/m/n/8 , (N
 ew Haven: Yale University
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
 \EU1/AdobeGaramondPro(0)/m/n/8 Press, 1985) or Paul Rand, \EU1/AdobeGaramondPro
 (0)/m/it/8 From Lascaux to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
 \EU1/AdobeGaramondPro(0)/m/it/8 Brooklyn\EU1/AdobeGaramondPro(0)/m/n/8 , (New H
 aven: Yale University Press,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
 \EU1/AdobeGaramondPro(0)/m/n/8 1985), or Paul Rand, \EU1/AdobeGaramondPro(0)/m/
 it/8 Design Form and Chaos\EU1/AdobeGaramondPro(0)/m/n/8 ,
  []
@@ -1400,37 +1400,37 @@ File: watchTheTigerWalk1-2c.pdf Graphic file (type QTm)
 LaTeX Warning: Marginpar on page 3 moved.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 140.
+(Font)              <9> on input line 143.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 140.
+(Font)              <6> on input line 143.
 [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 157.
+(Font)              <8> on input line 160.
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 [][][]\EU1/AdobeGaramondPro(0)/m/n/8 Adobe Systems Incorporated, “Gara-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 \EU1/AdobeGaramondPro(0)/m/n/8 mond Premier Pro,” \EU1/AdobeGaramondPro(0)/m/it
 /8 Adobe Typekit\EU1/AdobeGaramondPro(0)/m/n/8 , 2017,
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 157--157
+Underfull \hbox (badness 1248) in paragraph at lines 160--160
 \EU1/AdobeGaramondPro(0)/m/n/8 accessed March 18, 2017, []$[][][][][] [] [] [] 
 [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 \EU1/AdobeGaramondPro(0)/m/n/8 Co., “Whitney,” \EU1/AdobeGaramondPro(0)/m/it/8 
 Fonts by Hoefler & Co. \EU1/AdobeGaramondPro(0)/m/n/8 2017,
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 157--157
+Underfull \hbox (badness 3058) in paragraph at lines 160--160
 \EU1/AdobeGaramondPro(0)/m/n/8 accessed March 18, 2017, []$[][][][][] [] [] [] 
 [][][] []
  []
@@ -1439,16 +1439,16 @@ Underfull \hbox (badness 3058) in paragraph at lines 157--157
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
  (./testDraft.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 163.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 166.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 166.
 Package logreq Info: Writing requests to 'testDraft.run.xml'.
 \openout1 = `testDraft.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
  ) 
 Here is how much of TeX's memory you used:
  30891 strings out of 493591
