@@ -1,0 +1,70 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{cms/global/}
+    \entry{garamondPremier}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c994a0c6e1b4c02e12a00162657ad10e}{%
+           family={{Adobe Systems Incorporated}},
+           family_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c994a0c6e1b4c02e12a00162657ad10e}
+      \strng{fullhash}{c994a0c6e1b4c02e12a00162657ad10e}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Adobe Typekit}
+      \field{title}{Garamond Premier Pro}
+      \field{urlday}{18}
+      \field{urlmonth}{03}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://typekit.com/fonts/garamond-premier
+      \endverb
+      \keyw{Typography}
+    \endentry
+    \entry{hoeflerWhitney}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f9044c8810176239402d1048fbc6489c}{%
+           family={{Hoefler \& Co.}},
+           family_i={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f9044c8810176239402d1048fbc6489c}
+      \strng{fullhash}{f9044c8810176239402d1048fbc6489c}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fonts by Hoefler \& Co.}
+      \field{title}{Whitney}
+      \field{urlday}{18}
+      \field{urlmonth}{03}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.typography.com/fonts/whitney/overview/
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
