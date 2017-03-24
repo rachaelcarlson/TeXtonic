@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  23 MAR 2017 21:33
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.22)  23 MAR 2017 21:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1060,20 +1060,20 @@ ondeau by Johann Sebastian Bach,
 [2
 
 ] [3] [4] [5]
-Overfull \hbox (16.75545pt too wide) in paragraph at lines 186--186
+Overfull \hbox (16.75545pt too wide) in paragraph at lines 194--194
 |\EU1/LibertinusSerif(0)/m/it/10.95 Six-String Suite: “Eggtooth”/“Grim to the B
 rim”/“Orange Room” by Leo Kot-
  []
 
 [6] [7]
-Overfull \hbox (1.97003pt too wide) in paragraph at lines 210--211
+Overfull \hbox (1.97003pt too wide) in paragraph at lines 218--219
 \EU1/LibertinusSerif(0)/m/it/10 Klangfarbenmelodie \EU1/LibertinusSerif(0)/m/n/
 10 is a term coined by Arnold Schoenberg in \EU1/LibertinusSerif(0)/m/it/10 Har
 monielehre 
  []
 
 [8] [9]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 230
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 238
 .
  (/usr/share/texmf/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1085,18 +1085,18 @@ Package bibentry Warning: You have used \nobibliography*
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
 [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
  (./carlsonProgramNotes.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 233.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 233.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 241.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 241.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 241.
  ) 
 Here is how much of TeX's memory you used:
  23849 strings out of 493591
  421465 string characters out of 6150859
- 466713 words of memory out of 5000000
+ 467713 words of memory out of 5000000
  27011 multiletter control sequences out of 15000+600000
  4521 words of font info for 42 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
