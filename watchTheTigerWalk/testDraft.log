@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.24)  24 MAR 2017 18:13
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.24)  24 MAR 2017 23:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -910,12 +910,40 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count160
 )
+\g__fontspec_family_NotoSansCJKJP_int=\count161
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Noto Sans CJK JP/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Noto Sans CJK JP/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Noto Sans CJK JP/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'NotoSansCJKJP(0)' created for font 'Noto Sans CJK JP' with
+. options [].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"Noto Sans CJK
+. JP/OT:script=latn;language=DFLT;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+
 (/usr/share/texmf/tex/latex/biblatex-chicago/biblatex-chicago.sty
 Package: biblatex-chicago 2016/03/15 v 3.3 biblatex style
 
 (/usr/share/texmf/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count161
+\etb@tempcnta=\count162
 )
 (/usr/share/texmf/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/05/14 v3.4 programmable bibliographies (PK/JW/AB)
@@ -926,7 +954,7 @@ and LuaTeX
 )
 (/usr/share/texmf/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count162
+\lrq@indent=\count163
 
 (/usr/share/texmf/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -934,49 +962,49 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (/usr/share/texmf/tex/generic/xstring/xstring.sty
 (/usr/share/texmf/tex/generic/xstring/xstring.tex
 \@xs@message=\write3
-\integerpart=\count163
-\decimalpart=\count164
+\integerpart=\count164
+\decimalpart=\count165
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count165
-\c@listtotal=\count166
-\c@listcount=\count167
-\c@liststart=\count168
-\c@liststop=\count169
-\c@citecount=\count170
-\c@citetotal=\count171
-\c@multicitecount=\count172
-\c@multicitetotal=\count173
-\c@instcount=\count174
-\c@maxnames=\count175
-\c@minnames=\count176
-\c@maxitems=\count177
-\c@minitems=\count178
-\c@citecounter=\count179
-\c@savedcitecounter=\count180
-\c@uniquelist=\count181
-\c@uniquename=\count182
-\c@refsection=\count183
-\c@refsegment=\count184
-\c@maxextratitle=\count185
-\c@maxextratitleyear=\count186
-\c@maxextrayear=\count187
-\c@maxextraalpha=\count188
-\c@abbrvpenalty=\count189
-\c@highnamepenalty=\count190
-\c@lownamepenalty=\count191
-\c@maxparens=\count192
-\c@parenlevel=\count193
-\blx@tempcnta=\count194
-\blx@tempcntb=\count195
-\blx@tempcntc=\count196
-\blx@maxsection=\count197
-\blx@maxsegment@0=\count198
-\blx@notetype=\count199
-\blx@parenlevel@text=\count266
-\blx@parenlevel@foot=\count267
-\blx@sectionciteorder@0=\count268
+\c@tabx@nest=\count166
+\c@listtotal=\count167
+\c@listcount=\count168
+\c@liststart=\count169
+\c@liststop=\count170
+\c@citecount=\count171
+\c@citetotal=\count172
+\c@multicitecount=\count173
+\c@multicitetotal=\count174
+\c@instcount=\count175
+\c@maxnames=\count176
+\c@minnames=\count177
+\c@maxitems=\count178
+\c@minitems=\count179
+\c@citecounter=\count180
+\c@savedcitecounter=\count181
+\c@uniquelist=\count182
+\c@uniquename=\count183
+\c@refsection=\count184
+\c@refsegment=\count185
+\c@maxextratitle=\count186
+\c@maxextratitleyear=\count187
+\c@maxextrayear=\count188
+\c@maxextraalpha=\count189
+\c@abbrvpenalty=\count190
+\c@highnamepenalty=\count191
+\c@lownamepenalty=\count192
+\c@maxparens=\count193
+\c@parenlevel=\count194
+\blx@tempcnta=\count195
+\blx@tempcntb=\count196
+\blx@tempcntc=\count197
+\blx@maxsection=\count198
+\blx@maxsegment@0=\count199
+\blx@notetype=\count266
+\blx@parenlevel@text=\count267
+\blx@parenlevel@foot=\count268
+\blx@sectionciteorder@0=\count269
 \labelnumberwidth=\skip92
 \labelalphawidth=\skip93
 \biblabelsep=\skip94
@@ -987,9 +1015,9 @@ Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 \bibhang=\skip99
 \blx@bcfin=\read2
 \blx@bcfout=\write4
-\c@mincomprange=\count269
-\c@maxcomprange=\count270
-\c@mincompwidth=\count271
+\c@mincomprange=\count270
+\c@maxcomprange=\count271
+\c@mincompwidth=\count272
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -998,72 +1026,72 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'chicago-notes.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count272
-\c@savedafterword=\count273
-\c@annotator=\count274
-\c@savedannotator=\count275
-\c@author=\count276
-\c@savedauthor=\count277
-\c@bookauthor=\count278
-\c@savedbookauthor=\count279
-\c@commentator=\count280
-\c@savedcommentator=\count281
-\c@editor=\count282
-\c@savededitor=\count283
-\c@editora=\count284
-\c@savededitora=\count285
-\c@editorb=\count286
-\c@savededitorb=\count287
-\c@editorc=\count288
-\c@savededitorc=\count289
-\c@foreword=\count290
-\c@savedforeword=\count291
-\c@holder=\count292
-\c@savedholder=\count293
-\c@introduction=\count294
-\c@savedintroduction=\count295
-\c@namea=\count296
-\c@savednamea=\count297
-\c@nameb=\count298
-\c@savednameb=\count299
-\c@namec=\count300
-\c@savednamec=\count301
-\c@translator=\count302
-\c@savedtranslator=\count303
-\c@shortauthor=\count304
-\c@savedshortauthor=\count305
-\c@shorteditor=\count306
-\c@savedshorteditor=\count307
-\c@labelname=\count308
-\c@savedlabelname=\count309
-\c@institution=\count310
-\c@savedinstitution=\count311
-\c@lista=\count312
-\c@savedlista=\count313
-\c@listb=\count314
-\c@savedlistb=\count315
-\c@listc=\count316
-\c@savedlistc=\count317
-\c@listd=\count318
-\c@savedlistd=\count319
-\c@liste=\count320
-\c@savedliste=\count321
-\c@listf=\count322
-\c@savedlistf=\count323
-\c@location=\count324
-\c@savedlocation=\count325
-\c@organization=\count326
-\c@savedorganization=\count327
-\c@origlocation=\count328
-\c@savedoriglocation=\count329
-\c@origpublisher=\count330
-\c@savedorigpublisher=\count331
-\c@publisher=\count332
-\c@savedpublisher=\count333
-\c@language=\count334
-\c@savedlanguage=\count335
-\c@pageref=\count336
-\c@savedpageref=\count337
+\c@afterword=\count273
+\c@savedafterword=\count274
+\c@annotator=\count275
+\c@savedannotator=\count276
+\c@author=\count277
+\c@savedauthor=\count278
+\c@bookauthor=\count279
+\c@savedbookauthor=\count280
+\c@commentator=\count281
+\c@savedcommentator=\count282
+\c@editor=\count283
+\c@savededitor=\count284
+\c@editora=\count285
+\c@savededitora=\count286
+\c@editorb=\count287
+\c@savededitorb=\count288
+\c@editorc=\count289
+\c@savededitorc=\count290
+\c@foreword=\count291
+\c@savedforeword=\count292
+\c@holder=\count293
+\c@savedholder=\count294
+\c@introduction=\count295
+\c@savedintroduction=\count296
+\c@namea=\count297
+\c@savednamea=\count298
+\c@nameb=\count299
+\c@savednameb=\count300
+\c@namec=\count301
+\c@savednamec=\count302
+\c@translator=\count303
+\c@savedtranslator=\count304
+\c@shortauthor=\count305
+\c@savedshortauthor=\count306
+\c@shorteditor=\count307
+\c@savedshorteditor=\count308
+\c@labelname=\count309
+\c@savedlabelname=\count310
+\c@institution=\count311
+\c@savedinstitution=\count312
+\c@lista=\count313
+\c@savedlista=\count314
+\c@listb=\count315
+\c@savedlistb=\count316
+\c@listc=\count317
+\c@savedlistc=\count318
+\c@listd=\count319
+\c@savedlistd=\count320
+\c@liste=\count321
+\c@savedliste=\count322
+\c@listf=\count323
+\c@savedlistf=\count324
+\c@location=\count325
+\c@savedlocation=\count326
+\c@organization=\count327
+\c@savedorganization=\count328
+\c@origlocation=\count329
+\c@savedoriglocation=\count330
+\c@origpublisher=\count331
+\c@savedorigpublisher=\count332
+\c@publisher=\count333
+\c@savedpublisher=\count334
+\c@language=\count335
+\c@savedlanguage=\count336
+\c@pageref=\count337
+\c@savedpageref=\count338
 \shorthandwidth=\skip100
 \shortjournalwidth=\skip101
 \shortserieswidth=\skip102
@@ -1081,13 +1109,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texmf/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count338
-\c@textcitetotal=\count339
-\c@textcitemaxnames=\count340
-\c@biburlnumpenalty=\count341
-\c@biburlucpenalty=\count342
-\c@biburllcpenalty=\count343
-\c@smartand=\count344
+\c@textcitecount=\count339
+\c@textcitetotal=\count340
+\c@textcitemaxnames=\count341
+\c@biburlnumpenalty=\count342
+\c@biburlucpenalty=\count343
+\c@biburllcpenalty=\count344
+\c@smartand=\count345
 )
 Package biblatex Info: Trying to load bibliography style 'chicago-notes'...
 Package biblatex Info: ... file 'chicago-notes.bbx' found.
@@ -1138,35 +1166,35 @@ File: english.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
 Package biblatex Warning: Patching footnotes failed.
 (biblatex)                Footnote detection will not work.
 
-\@quotelevel=\count345
-\@quotereset=\count346
+\@quotelevel=\count346
+\@quotereset=\count347
 (./testDraft.aux)
 \openout1 = `testDraft.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 36.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1174,70 +1202,70 @@ LaTeX Font Info:    ... okay on input line 34.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
-LaTeX Font Info:    Redeclaring math accent \check on input line 34.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 36.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 36.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 36.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 36.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 36.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 36.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 36.
+LaTeX Font Info:    Redeclaring math accent \check on input line 36.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 36.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 36.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 36.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 34.
+(Font)              `operators' in the math version `normal' on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/AdobeGaramondPro(0)/m/n on input li
-ne 34.
+ne 36.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 34.
+(Font)              `operators' in the math version `bold' on input line 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/AdobeGaramondPro(0)/m/n on input l
-ine 34.
+ine 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/AdobeGaramondPro(0)/m/n --> EU1/AdobeGaramondPro(0)
-/m/n on input line 34.
+/m/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/AdobeGaramondPro(0)/m/it on input 
-line 34.
+line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/AdobeGaramondPro(0)/bx/n on input 
-line 34.
+line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> EU1/NotoSansSymbols(0)/m/n on input li
-ne 34.
+ne 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/AdobeGaramondPro(1)/m/n on input l
-ine 34.
+ine 36.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/AdobeGaramondPro(0)/m/n --> EU1/AdobeGaramondPro(0)
-/bx/n on input line 34.
+/bx/n on input line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/AdobeGaramondPro(0)/bx/it on inpu
-t line 34.
+t line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/NotoSansSymbols(0)/bx/n on input 
-line 34.
+line 36.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/AdobeGaramondPro(1)/bx/n on input 
-line 34.
+line 36.
 \AtBeginShipoutBox=\box77
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 36.
 
 (/usr/share/texmf/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1245,18 +1273,18 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texmf/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count347
+\c@section@level=\count348
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
  (./testDraft.out)
 (./testDraft.out)
 \@outlinefile=\write5
 \openout5 = `testDraft.out'.
 
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 34.
+LaTeX Info: Redefining \selectfont on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1302,8 +1330,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'testDraft.bbl' found.
 (./testDraft.bbl)
-Package biblatex Info: Reference section=0 on input line 34.
-Package biblatex Info: Reference segment=0 on input line 34.
+Package biblatex Info: Reference section=0 on input line 36.
+Package biblatex Info: Reference segment=0 on input line 36.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1331,11 +1359,11 @@ etterspace=10;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
+(Font)              <7> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
+(Font)              <5> on input line 40.
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
 []\EU1/AdobeGaramondPro(0)/m/n/8 I don’t have a source for this. It would
  []
 
@@ -1345,51 +1373,51 @@ LaTeX Warning: Marginpar on page 1 moved.
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 100--100
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 []\EU1/AdobeGaramondPro(0)/m/n/10 Number of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 []\EU1/AdobeGaramondPro(0)/m/n/10 artist makes no overt claim to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 []\EU1/AdobeGaramondPro(0)/m/n/10 reviews of artist by artists and other
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 []\EU1/AdobeGaramondPro(0)/m/n/8 I need to find a citation for this. It
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \EU1/AdobeGaramondPro(0)/m/n/8 might be in Paul Rand, \EU1/AdobeGaramondPro(0)/
 m/it/8 Paul Rand: A De-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \EU1/AdobeGaramondPro(0)/m/it/8 signer’s Art\EU1/AdobeGaramondPro(0)/m/n/8 , (N
 ew Haven: Yale University
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \EU1/AdobeGaramondPro(0)/m/n/8 Press, 1985) or Paul Rand, \EU1/AdobeGaramondPro
 (0)/m/it/8 From Lascaux to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \EU1/AdobeGaramondPro(0)/m/it/8 Brooklyn\EU1/AdobeGaramondPro(0)/m/n/8 , (New H
 aven: Yale University Press,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \EU1/AdobeGaramondPro(0)/m/n/8 1985), or Paul Rand, \EU1/AdobeGaramondPro(0)/m/
 it/8 Design Form and Chaos\EU1/AdobeGaramondPro(0)/m/n/8 ,
  []
@@ -1399,64 +1427,72 @@ File: watchTheTigerWalk1-2c.pdf Graphic file (type QTm)
 
 LaTeX Warning: Marginpar on page 3 moved.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 143.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 143.
 [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 160.
+(Font)              <9> on input line 148.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 148.
+ [4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 165.
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
 [][][]\EU1/AdobeGaramondPro(0)/m/n/8 Adobe Systems Incorporated, “Gara-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
 \EU1/AdobeGaramondPro(0)/m/n/8 mond Premier Pro,” \EU1/AdobeGaramondPro(0)/m/it
 /8 Adobe Typekit\EU1/AdobeGaramondPro(0)/m/n/8 , 2017,
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 160--160
+Underfull \hbox (badness 1248) in paragraph at lines 165--165
 \EU1/AdobeGaramondPro(0)/m/n/8 accessed March 18, 2017, []$[][][][][] [] [] [] 
 [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
 \EU1/AdobeGaramondPro(0)/m/n/8 Co., “Whitney,” \EU1/AdobeGaramondPro(0)/m/it/8 
 Fonts by Hoefler & Co. \EU1/AdobeGaramondPro(0)/m/n/8 2017,
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 160--160
+Underfull \hbox (badness 3058) in paragraph at lines 165--165
 \EU1/AdobeGaramondPro(0)/m/n/8 accessed March 18, 2017, []$[][][][][] [] [] [] 
 [][][] []
  []
 
-[4]
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
+
+Overfull \hbox (0.41011pt too wide) in paragraph at lines 177--177
+\EU1/AdobeGaramondPro(0)/m/it/10 D’Agostino\EU1/AdobeGaramondPro(0)/m/n/10 , 20
+16. Accessed March 21, 2017. []$[][][][] [] [] [] [][][] [] [][][][][][][][][][
+][][][][][][] [] 
+ []
+
+[5] [6] [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+ [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
  (./testDraft.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 166.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 166.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 177.
 Package logreq Info: Writing requests to 'testDraft.run.xml'.
 \openout1 = `testDraft.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 30891 strings out of 493591
- 553538 string characters out of 6150859
- 1158624 words of memory out of 5000000
- 33977 multiletter control sequences out of 15000+600000
- 7304 words of font info for 57 fonts, out of 8000000 for 9000
+ 31035 strings out of 493591
+ 557573 string characters out of 6150859
+ 1161972 words of memory out of 5000000
+ 34111 multiletter control sequences out of 15000+600000
+ 7336 words of font info for 61 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  63i,13n,68p,10411b,4787s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on testDraft.pdf (5 pages).
+Output written on testDraft.pdf (8 pages).

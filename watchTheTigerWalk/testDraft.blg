@@ -1,16 +1,16 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [0] Config.pm:346> INFO - Logfile is 'testDraft.blg'
-[50] biber:292> INFO - === Thu Mar 23, 2017, 23:44:01
-[70] Biber.pm:351> INFO - Reading 'testDraft.bcf'
-[199] Biber.pm:776> INFO - Found 2 citekeys in bib section 0
-[220] Biber.pm:3493> INFO - Processing section 0
-[243] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[244] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[246] bibtex.pm:1048> INFO - Found BibTeX data source 'bibliography.bib'
-[272] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[272] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
-[272] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[273] Biber.pm:3306> INFO - Sorting list 'cms/global/' of type 'entry' with scheme 'cms' and locale 'en-US'
-[273] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[275] bbl.pm:527> INFO - Writing 'testDraft.bbl' with encoding 'UTF-8'
-[276] bbl.pm:620> INFO - Output to testDraft.bbl
+[49] biber:292> INFO - === Fri Mar 24, 2017, 23:49:06
+[68] Biber.pm:351> INFO - Reading 'testDraft.bcf'
+[196] Biber.pm:776> INFO - Found 43 citekeys in bib section 0
+[217] Biber.pm:3493> INFO - Processing section 0
+[238] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[241] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[244] bibtex.pm:1048> INFO - Found BibTeX data source 'bibliography.bib'
+[358] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[358] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[359] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[359] Biber.pm:3306> INFO - Sorting list 'cms/global/' of type 'entry' with scheme 'cms' and locale 'en-US'
+[359] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[443] bbl.pm:527> INFO - Writing 'testDraft.bbl' with encoding 'UTF-8'
+[450] bbl.pm:620> INFO - Output to testDraft.bbl

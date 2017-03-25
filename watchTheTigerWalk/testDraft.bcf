@@ -2220,6 +2220,47 @@
   <bcf:section number="0">
     <bcf:citekey order="1">garamondPremier</bcf:citekey>
     <bcf:citekey order="1">hoeflerWhitney</bcf:citekey>
+    <bcf:citekey order="2">adamRafferty</bcf:citekey>
+    <bcf:citekey order="3">alexAnderson</bcf:citekey>
+    <bcf:citekey order="4">alexDeGrassi</bcf:citekey>
+    <bcf:citekey order="5">andrewWhite</bcf:citekey>
+    <bcf:citekey order="6">andyMcKee</bcf:citekey>
+    <bcf:citekey order="7">billyMcLaughlin</bcf:citekey>
+    <bcf:citekey order="8">calumGraham</bcf:citekey>
+    <bcf:citekey order="9">cliveCarroll</bcf:citekey>
+    <bcf:citekey order="10">craigDAndrea</bcf:citekey>
+    <bcf:citekey order="11">evaAtmatzidou</bcf:citekey>
+    <bcf:citekey order="12">ewanDobson</bcf:citekey>
+    <bcf:citekey order="13">garethPearson</bcf:citekey>
+    <bcf:citekey order="14">happyTraum</bcf:citekey>
+    <bcf:citekey order="15">ianEthanCase</bcf:citekey>
+    <bcf:citekey order="16">janetFeder</bcf:citekey>
+    <bcf:citekey order="17">jimmyWahlsteen</bcf:citekey>
+    <bcf:citekey order="18">jonGomm</bcf:citekey>
+    <bcf:citekey order="19">kakiKing</bcf:citekey>
+    <bcf:citekey order="20">kellyValleau</bcf:citekey>
+    <bcf:citekey order="21">kevinHorrigan</bcf:citekey>
+    <bcf:citekey order="22">leoKottke</bcf:citekey>
+    <bcf:citekey order="23">lucaStricagnoli</bcf:citekey>
+    <bcf:citekey order="24">lucasMich</bcf:citekey>
+    <bcf:citekey order="25">masaakiKishibe</bcf:citekey>
+    <bcf:citekey order="26">michaelChap</bcf:citekey>
+    <bcf:citekey order="27">michaelGul</bcf:citekey>
+    <bcf:citekey order="28">mikeDawes</bcf:citekey>
+    <bcf:citekey order="29">murielAnders</bcf:citekey>
+    <bcf:citekey order="30">peppino</bcf:citekey>
+    <bcf:citekey order="31">peterCiluzzi</bcf:citekey>
+    <bcf:citekey order="32">peterFinger</bcf:citekey>
+    <bcf:citekey order="33">pierre</bcf:citekey>
+    <bcf:citekey order="34">rayMontford</bcf:citekey>
+    <bcf:citekey order="35">pino</bcf:citekey>
+    <bcf:citekey order="36">spencerElliot</bcf:citekey>
+    <bcf:citekey order="37">sunghaJung</bcf:citekey>
+    <bcf:citekey order="38">thomasLeeb</bcf:citekey>
+    <bcf:citekey order="39">timSparks</bcf:citekey>
+    <bcf:citekey order="40">tommyEmmanuel</bcf:citekey>
+    <bcf:citekey order="41">trevorGH</bcf:citekey>
+    <bcf:citekey order="42">vickiGenfan</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="cms/global/" type="entry" sortscheme="cms" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
