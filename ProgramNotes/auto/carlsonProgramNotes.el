@@ -13,8 +13,7 @@
     "sec:program-notes"
     "sec:black-moonw-move"
     "sec:partita-no.-3"
-    "sec:watch-tiger-walk"
-    "sec:little-megg-rach"
-    "sec:ants-leo-kottke"))
+    "sec:ants-leo-kottke"
+    "sec:watch-tiger-walk"))
  :latex)
 
