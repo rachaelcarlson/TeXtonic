@@ -11,13 +11,16 @@
     "ifxetex"
     "booktabs"
     "lipsum"
-    "biblatex-chicago")
+    "biblatex-chicago"
+    "wrapfig")
    (TeX-add-symbols
     '("textls" ["argument"] 1))
    (LaTeX-add-labels
     "sec:internet-presence"
     "sec:data"
     "sec:analysis"
+    "fig:StatCounter1"
+    "fig:StatCounter2"
     "sec:methods"
     "sec:typography"
     "fig:somthing")

@@ -19,6 +19,29 @@
 
 \refsection{0}
   \sortlist[entry]{cms/global/}
+    \entry{adobeFlash}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c994a0c6e1b4c02e12a00162657ad10e}{%
+           family={{Adobe Systems Incorporated}},
+           family_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c994a0c6e1b4c02e12a00162657ad10e}
+      \strng{fullhash}{c994a0c6e1b4c02e12a00162657ad10e}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Adobe News}
+      \field{month}{11}
+      \field{title}{Flash to Focus on PC Browsing and Mobile Apps; Adobe to More Aggressively Contribute to HTML5}
+      \field{urlday}{26}
+      \field{urlmonth}{03}
+      \field{urlyear}{2017}
+      \field{year}{2011}
+      \verb{url}
+      \verb https://blogs.adobe.com/conversations/2011/11/flash-focus.html
+      \endverb
+    \endentry
     \entry{garamondPremier}{article}{}
       \name{author}{1}{}{%
         {{hash=c994a0c6e1b4c02e12a00162657ad10e}{%
@@ -630,6 +653,28 @@
       \verb http://www.kevinhorrigan.com/
       \endverb
     \endentry
+    \entry{internetArchive}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b94841f36b4eb846b83506af2fa0319d}{%
+           family={{Internet Archive}},
+           family_i={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b94841f36b4eb846b83506af2fa0319d}
+      \strng{fullhash}{b94841f36b4eb846b83506af2fa0319d}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Internet Archive}
+      \field{title}{WaybackMachine}
+      \field{urlday}{26}
+      \field{urlmonth}{03}
+      \field{urlyear}{2017}
+      \field{year}{2014}
+      \verb{url}
+      \verb https://archive.org/web/
+      \endverb
+    \endentry
     \entry{sunghaJung}{article}{}
       \name{author}{1}{}{%
         {{hash=d771b450629e291b997af9176beac208}{%
@@ -887,6 +932,28 @@
       \verb http://www.adamrafferty.com/
       \endverb
     \endentry
+    \entry{bandzoogle}{article}{}
+      \name{author}{1}{}{%
+        {{hash=384ba771044eaa9052ada2650bb0c846}{%
+           family={{Sitezoogle Inc.}},
+           family_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{384ba771044eaa9052ada2650bb0c846}
+      \strng{fullhash}{384ba771044eaa9052ada2650bb0c846}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bandzoogle}
+      \field{title}{Bandzoogle: Band Websites that Work}
+      \field{urlday}{26}
+      \field{urlmonth}{03}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://bandzoogle.com
+      \endverb
+    \endentry
     \entry{timSparks}{article}{}
       \name{author}{1}{}{%
         {{hash=f803a4b8f6910af506764d64f9bbd979}{%
@@ -909,6 +976,50 @@
       \field{year}{2016}
       \verb{url}
       \verb http://www.timsparks.com/
+      \endverb
+    \endentry
+    \entry{statCounter2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fee3fc182e02f376217580e5bfec4f51}{%
+           family={{StatCounter}},
+           family_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{fullhash}{fee3fc182e02f376217580e5bfec4f51}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{StatCounter: GlobalStats}
+      \field{title}{Desktop vs Mobile vs Tablet Market Share in United States of America}
+      \field{urlday}{26}
+      \field{urlmonth}{03}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \verb{url}
+      \verb http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/united-states-of-america
+      \endverb
+    \endentry
+    \entry{statCounter1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fee3fc182e02f376217580e5bfec4f51}{%
+           family={{StatCounter}},
+           family_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fee3fc182e02f376217580e5bfec4f51}
+      \strng{fullhash}{fee3fc182e02f376217580e5bfec4f51}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{StatCounter: GlobalStats}
+      \field{title}{Desktop vs Mobile vs Tablet Market Share Worldwide}
+      \field{urlday}{26}
+      \field{urlmonth}{03}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \verb{url}
+      \verb http://gs.statcounter.com/platform-market-share/desktop-mobile-tablet
       \endverb
     \endentry
     \entry{lucaStricagnoli}{article}{}

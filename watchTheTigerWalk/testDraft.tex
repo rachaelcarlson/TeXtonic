@@ -4,13 +4,14 @@
 \usepackage{fontspec}
 \usepackage{ifxetex}
 % \fontspec{EB Garamond}
-\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Adobe Garamond Pro}
-\setsansfont{Noto Sans Symbols}
+\setmainfont[Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle]{Adobe Garamond Pro}
+\setsansfont{Noto Sans}
 \setmonofont{Adobe Garamond Pro}
 \usepackage{booktabs}
 \usepackage{lipsum}
 % a new font family for different languages
 \newfontfamily\myfont[]{Noto Sans CJK JP}
+\newfontfamily\symbolfont[]{Noto Sans Symbols}
 
 \ifxetex
   \newcommand{\textls}[2][5]{%
@@ -28,6 +29,10 @@
 % % % \DefineBibliographyStrings{english}{%
 % %   references = {Works Cited},
 % % }
+
+%   wrapfig
+\usepackage{wrapfig}
+
 
 
 \title{Watch the Tiger Walk: Another Study in Intention}
@@ -92,10 +97,10 @@ obsolete in five years. This data set has been included in the appendix.
 % \end{table*}
 \subsection{Analysis}
 \label{sec:analysis}
-A major component of the artists' web sites is how the artist establishes his
-or her legitimacy as a performer and/or composer. Some artists claimed several
-different types of legitimacy at the same time. For instance, Pierre
-Bensusan's web site claims his legitimacy through his musicality and through
+
+There were several codes which fall into a subjective field of
+determination. These were the claims to legitimacy, visual display, and the
+openness of the artist to her craft. The content of these codes was based upon
 \begin{table}
   \centering
   \small
@@ -115,28 +120,27 @@ Bensusan's web site claims his legitimacy through his musicality and through
   \end{tabular}
   \caption{The array of claims to legitimacy.}
 \end{table}
-sponsorships. His sponsorships have been coded as a claim to legitimacy through
-material means. Another example of an artist claiming legitimacy through
-material means would be Alex Anderson, who makes a point to associate himself
-with the harp guitar.
-
-Another coding was the appearance of the artist's web site. All of the artist
-web sites had pictures of the artist on the landing, or home, page. Some
-artists had color schemes which made the text illegible. The different visual
-displays that are utilized by finger-style guitarists span the last twenty
-years of graphic design on the internet.
-
-Some artists are closed about their art in that they do not display any
-indication that they are willing to teach someone their craft. Other artists
-are open about their art. Those that are open are open in different ways. Ewan
-Dobson and Mike Dawes offer lessons over \emph{Skype}. 
-
-Several questions, ranging from visual to technical were asked of each web site.
+the subjective interpretation of the author. A major component of the artists' web sites is
+how the artist establishes his or her legitimacy as a performer and/or
+composer. Some artists claimed several different types of legitimacy at the
+same time. For instance, Pierre Bensusan's web site claims his legitimacy
+through his musicality and through sponsorships. His sponsorships have been
+coded as a claim to legitimacy through material means. Another example of an
+artist claiming legitimacy through material means would be Alex Anderson, who
+makes a point to associate himself with the harp guitar. Another subject code
+was the appearance of the artist's web site. All of the artist web sites had
+pictures of the artist on the landing, or home, page. Some artists had color
+schemes which made the text illegible. The different visual displays that are
+utilized by finger-style guitarists span the last twenty years of graphic
+design on the internet. Some artists are closed about their art in that they
+do not display any indication that they are willing to teach someone their
+craft. Other artists are open about their art. Those that are open are open in
+different ways. Ewan Dobson and Mike Dawes offer lessons over \emph{Skype}.
 \begin{margintable}\centering
   \small
   \begin{tabular}{p{0.4\textwidth} l l}\toprule
     Question & yeses & noes \\\midrule
-    mobile-friendly? & 22 & 20\\
+    mobile-friendly? & 22 & 19\\
     Adobe Flash? & 4 & 37\\
     https? & 7 & 34\\
     streaming audio? & 20 & 21\\
@@ -146,10 +150,80 @@ Several questions, ranging from visual to technical were asked of each web site.
     electronic newsletter? & 19 & 22\\
     \bottomrule
   \end{tabular}
-  \caption{Yes-or-no questions and their responses.}
+  \vspace{6pt}
+  \caption{Yes-or-no questions asked of the artists' websites.}
 \end{margintable}
-While it may have seemed arbitrary at first to ask some of the questions
-listed in Table 2, the responses can be quite surprising. 
+
+Several questions, ranging from visual to technical, were coded for each web
+site. While it may have seemed arbitrary at first to ask some of the questions
+listed in Table 2, the responses can be quite surprising. For instance, a
+little under half of the web sites were not friendly to mobile browsers. This
+is perhaps indicative of a lag between changes in the display of finger-style
+guitarists' web sites and worldwide trends in internet browsing. As seen in
+Figure 1, around October of 2016, the market share of mobile browsers
+surpassed that of desktop browsers. It may be wise for all finger-style
+guitarists, as well as content producers in general, to recognize the
+importance of creating an adequate user experience for the mobile platform.
+\begin{figure}
+  \includegraphics[width=1.00\textwidth]{platformMarketShare.eps}
+  \caption{The distribution of platforms from around the world which browsed the
+    internet from February, 2016 to February 2017. \fullcite{statCounter1}}
+  \label{fig:StatCounter1}
+\end{figure}
+\begin{figure}
+  \includegraphics[width=1.00\textwidth]{platformMarketShareUS.eps}
+  \caption{The distribution of platforms from the United States of America which browsed the
+    internet from February, 2016 to February 2017. \fullcite{statCounter2}}
+  \label{fig:StatCounter2}
+\end{figure}
+The result of not making one's web site friendly to mobile users is lessened
+when one examines the market share for only the United States of America, seen
+in Figure 2. Four web sites require Adobe Flash in order to experience content. These four
+web sites are leaving at least half of the users of the internet in the dark
+as Adobe has discontinued Flash development for mobile
+platforms.\autocite{adobeFlash} It is also quite surprising that only half of the artists have streaming audio
+on their web sites while every artist except six have streaming video. This
+may be an indication of the near-ubiquity of streaming video on the
+internet. It would have been interesting to see the shift from streaming audio
+to streaming video in the 2000s. \emph{Internet Archive}'s ``WaybackMachine''
+may be a way in which to examine the developments of finger-style guitarists'
+web sites through the years.\autocite{internetArchive}
+\begin{margintable}\centering
+  \small
+  \begin{tabular}{l l}\toprule
+    \textsc{cms} & Number\\\midrule
+    Bandzoogle & 4\\
+    Hostbaby & 2\\
+    Joomla & 1\\
+    JuanPaSystems & 1\\
+    ProdgWeb & 1\\
+    Squarespace & 7\\
+    Sumo & 1\\
+    Truefire & 1\\
+    WebsiteBuilder & 1\\
+    Wix & 3\\
+    Wordpress & 1\\
+    \bottomrule
+  \end{tabular}
+  \vspace{6pt}  
+  \caption{Distribution of discernable Content Management Systems among the
+    web sites of finger-style guitarists.} 
+\end{margintable}
+An area of particular interest to me was the manner in which these web sites
+managed their content. I was able to determine the Content Management Systems
+(\textsc{cms}) of 23 sites as seen in Table 3. The most represented \textsc{cms}
+is Squarespace with 7 artists followed by Bandzoogle at 4 and Wix at 3. I find
+this interesting because some of these \textsc{cms}'s integrate components
+into their systems which may assist an artist in the management of his or her
+web site. For instance, Bandzoogle assists in creating mobile-friendly web sites with
+a web store, newsletters, streaming services, blogs, and a gig
+calendar.\autocite{bandzoogle} The web sites which did not have any
+discernible manner in which to determine content creation may or may not have
+been created and managed with a \textsc{cms}.
+
+One of the primary catalysts for this essay was to conduct a review of the
+distribution of sheet music within a digital finger-style domain. 
+
 \section{Transcription}
 \newthought{A distinguishing characteristic} of the finger-style guitarist's website is a section of sheet music, scores, or transcriptions of the artist's works. This seems to be a unique component of the finger-style culture. Sadly, while the transcriptions are becoming marginally better than ANSI-Tab on the internet, the quality of the transcriptions produced by these musicians is not on par with the quality of playing or composition. This could be attributed to different factors, all of which are for another essay.
 \subsection{Methods}
@@ -187,7 +261,7 @@ The fonts used at \textsc{sel} are Helvetica LT Std and ITC Franklin Gothic. Due
 \end{table}
 Fonts that are designed based upon Claude Garamont (c. 1510 -- 1561) and Robert Granjon (1513 -- 1590) speak to me. Both Garamont and Granjon were French type designers and publishers in France. EB Garamond is an open source project directed by Georg Duffner based upon the \emph{Berner specimen}. This specimen does not contain bold examples. As such, neither does EB Garamond. The default numerical figures used in EB Garamond are old-style. Due to this I use Adobe Garamond Pro for titling which contains numbers and for the clef which looks more attractive in a bold typeface. On the complete opposite end of the Garamond spectrum, for the noteheads and the left-hand fingering I use Google's Noto Sans. This font family was designed for the mobile market as a means to ensure that almost all of the more than 128,000 figures in \emph{The Unicode Standard} are present such than when a user is confronted with a glyph they do not see a white box affectionately called a block of tofu. 
 
-There must to be a time when one makes a decision knowing all of the positives and negatives associated with that decision. It is at this point that it is more important that one makes \emph{a} decision than whether that decision is the best possible decision. I have vacillated between ten or so different fonts for my transcriptions. The decision of which font combination ensures readability while expressing an individual voice. This is an extremely difficult set of decisions. If I had enough money to purchase fonts I would most likely use \emph{Garamond Premier Pro} from Adobe and \emph{Whitney} from Hoefler \& Company.\autocites{garamondPremier,hoeflerWhitney} I am attracted to \emph{Whitney} in particular due to the presence of the ``Index'' font subset which contains circled numbers and letters --- \textsf{① ② ③ ④ Ⓣ}. \emph{Garamond Premier Pro} is a massive font family of 34 different fonts each with a different purpose.
+There must to be a time when one makes a decision knowing all of the positives and negatives associated with that decision. It is at this point that it is more important that one makes \emph{a} decision than whether that decision is the best possible decision. I have vacillated between ten or so different fonts for my transcriptions. The decision of which font combination ensures readability while expressing an individual voice. This is an extremely difficult set of decisions. If I had enough money to purchase fonts I would most likely use \emph{Garamond Premier Pro} from Adobe and \emph{Whitney} from Hoefler \& Company.\autocites{garamondPremier,hoeflerWhitney} I am attracted to \emph{Whitney} in particular due to the presence of the ``Index'' font subset which contains circled numbers and letters --- {\symbolfont① ② ③ ④ Ⓣ}. \emph{Garamond Premier Pro} is a massive font family of 34 different fonts each with a different purpose.
 
 \nocite{adamRafferty}
 \nocite{alexAnderson}

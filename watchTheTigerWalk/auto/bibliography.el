@@ -44,6 +44,11 @@
     "tommyEmmanuel"
     "trevorGH"
     "vickiGenfan"
-    "rayMontford"))
+    "rayMontford"
+    "statCounter1"
+    "adobeFlash"
+    "statCounter2"
+    "internetArchive"
+    "bandzoogle"))
  :bibtex)
 
