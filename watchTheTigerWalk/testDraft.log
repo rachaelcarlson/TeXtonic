@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.26)  26 MAR 2017 17:38
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/TeX Live for SUSE Linux) (preloaded format=xelatex 2017.3.26)  26 MAR 2017 17:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1514,36 +1514,36 @@ LaTeX Warning: Marginpar on page 4 moved.
 LaTeX Warning: Marginpar on page 4 moved.
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
 []\EU1/AdobeGaramondPro(0)/m/n/8 I need to find a citation for this. It
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
 \EU1/AdobeGaramondPro(0)/m/n/8 might be in Paul Rand, \EU1/AdobeGaramondPro(0)/
 m/it/8 Paul Rand: A De-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
 \EU1/AdobeGaramondPro(0)/m/it/8 signer’s Art\EU1/AdobeGaramondPro(0)/m/n/8 , (N
 ew Haven: Yale University
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
 \EU1/AdobeGaramondPro(0)/m/n/8 Press, 1985) or Paul Rand, \EU1/AdobeGaramondPro
 (0)/m/it/8 From Lascaux to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
 \EU1/AdobeGaramondPro(0)/m/it/8 Brooklyn\EU1/AdobeGaramondPro(0)/m/n/8 , (New H
 aven: Yale University Press,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 245--245
 \EU1/AdobeGaramondPro(0)/m/n/8 1985), or Paul Rand, \EU1/AdobeGaramondPro(0)/m/
 it/8 Design Form and Chaos\EU1/AdobeGaramondPro(0)/m/n/8 ,
  []
@@ -1554,30 +1554,30 @@ File: watchTheTigerWalk1-2c.pdf Graphic file (type QTm)
 LaTeX Warning: Marginpar on page 5 moved.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
 [][][]\EU1/AdobeGaramondPro(0)/m/n/8 Adobe Systems Incorporated, “Gara-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
 \EU1/AdobeGaramondPro(0)/m/n/8 mond Premier Pro,” \EU1/AdobeGaramondPro(0)/m/it
 /8 Adobe Typekit\EU1/AdobeGaramondPro(0)/m/n/8 , 2017,
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 275--275
+Underfull \hbox (badness 1248) in paragraph at lines 274--274
 \EU1/AdobeGaramondPro(0)/m/n/8 accessed March 18, 2017, []$[][][][][] [] [] [] 
 [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
 \EU1/AdobeGaramondPro(0)/m/n/8 Co., “Whitney,” \EU1/AdobeGaramondPro(0)/m/it/8 
 Fonts by Hoefler & Co. \EU1/AdobeGaramondPro(0)/m/n/8 2017,
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 275--275
+Underfull \hbox (badness 3058) in paragraph at lines 274--274
 \EU1/AdobeGaramondPro(0)/m/n/8 accessed March 18, 2017, []$[][][][][] [] [] [] 
 [][][] []
  []
@@ -1586,35 +1586,40 @@ Underfull \hbox (badness 3058) in paragraph at lines 275--275
 LaTeX Warning: Marginpar on page 6 moved.
 
 [6]
-Overfull \hbox (0.41011pt too wide) in paragraph at lines 287--287
+Overfull \hbox (0.41011pt too wide) in paragraph at lines 286--286
 \EU1/AdobeGaramondPro(0)/m/it/10 D’Agostino\EU1/AdobeGaramondPro(0)/m/n/10 , 20
 16. Accessed March 21, 2017. []$[][][][] [] [] [] [][][] [] [][][][][][][][][][
 ][][][][][][] [] 
  []
 
 [7]
-Overfull \hbox (3.11002pt too wide) in paragraph at lines 287--287
+Overfull \hbox (3.11002pt too wide) in paragraph at lines 286--286
 [][]\EU1/AdobeGaramondPro(0)/m/n/10 Internet Archive. “WaybackMachine.” \EU1/Ad
 obeGaramondPro(0)/m/it/10 Internet Archive\EU1/AdobeGaramondPro(0)/m/n/10 , 201
 4. Accessed March 26, 
  []
 
 [8] [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 286.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 286.
  (./testDraft.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 287.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 287.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 286.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 286.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'testDraft.run.xml'.
 \openout1 = `testDraft.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 286.
  ) 
 Here is how much of TeX's memory you used:
  31162 strings out of 493591
  560450 string characters out of 6150859
- 1169669 words of memory out of 5000000
+ 1170670 words of memory out of 5000000
  34217 multiletter control sequences out of 15000+600000
  7392 words of font info for 68 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
