@@ -23,7 +23,8 @@
     "fig:StatCounter2"
     "sec:methods"
     "sec:typography"
-    "fig:somthing")
+    "fig:somthing"
+    "sec:conclusions")
    (LaTeX-add-bibliographies
     "bibliography"))
  :latex)
