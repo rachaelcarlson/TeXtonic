@@ -6,7 +6,8 @@
     "tufte-handout"
     "tufte-handout10"
     "fontspec"
-    "ifxetex")
+    "ifxetex"
+    "harmony")
    (TeX-add-symbols
     '("textls" ["argument"] 1))
    (LaTeX-add-labels
