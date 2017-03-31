@@ -1,0 +1,31 @@
+@comment{x-kbibtex-encoding=utf-8}
+
+@comment{x-kbibtex-personnameformatting=<%l><, %f>}
+
+@article{clague,
+	author = "Clague, Mark",
+	journal = "NewMusicBox",
+	month = jan,
+	title = "{Psychedelic Citizenship: Jimi Hendrix as Tone Poet}",
+	year = "2015"
+}
+
+@incollection{lewis,
+	address = "Middletown",
+	author = "Lews, George E.",
+	booktitle = "{The Other Side of Nowhere: Jazz, Improvisation, And Communities in Dialogue}",
+	editor = "Fischlin, Daniel and Heble, Ajay",
+	pages = "131–162",
+	publisher = "Wesleyan University Press",
+	title = "{Improvised Music after 1950: Afrological and Eurological Perspectives}",
+	year = "2004"
+}
+
+@misc{hendrixWoodstock,
+	journal = "YouTube",
+	title = "{Inverview with Jimi Hendrix on Star-Spangled Banner}",
+	type = "Video",
+	url = "https://youtu.be/B-ZYUaRKQkk",
+	urldate = "2017-03-28"
+}
+
