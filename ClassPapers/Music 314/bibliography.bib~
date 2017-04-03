@@ -15,6 +15,7 @@
 	author = "Lews, George E.",
 	booktitle = "{The Other Side of Nowhere: Jazz, Improvisation, And Communities in Dialogue}",
 	editor = "Fischlin, Daniel and Heble, Ajay",
+	localfile = "/home/rachael/Downloads/lewis 2004 improvised music after 1950.pdf",
 	pages = "131–162",
 	publisher = "Wesleyan University Press",
 	title = "{Improvised Music after 1950: Afrological and Eurological Perspectives}",
@@ -27,5 +28,16 @@
 	type = "Video",
 	url = "https://youtu.be/B-ZYUaRKQkk",
 	urldate = "2017-03-28"
+}
+
+@incollection{pinch,
+	address = "Cambridge, MA",
+	author = "Pinch, Trevor and Trocco, Frank",
+	booktitle = "{Analog Days: The Invention and Impact of the Moog Synthesizer}",
+	chapter = "Switched-On Bach",
+	localfile = "/home/rachael/TeXtonic/ClassPapers/Music 314/Pinch and Trucco Analog Days Ch 7.pdf",
+	pages = "131–154",
+	publisher = "Harvard University Press",
+	year = "2002"
 }
 
