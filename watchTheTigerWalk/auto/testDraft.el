@@ -24,8 +24,8 @@
     "fig:StatCounter1"
     "fig:StatCounter2"
     "sec:methods"
-    "sec:typography"
     "fig:somthing"
+    "sec:typography"
     "sec:conclusions")
    (LaTeX-add-bibliographies
     "bibliography"))
