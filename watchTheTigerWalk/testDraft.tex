@@ -24,11 +24,14 @@
   \renewcommand{\textsc}[1]{\smallcapsspacing{\textsmallcaps{#1}}}
 \fi
 
-\usepackage[]{biblatex-chicago}
+\usepackage[backend=biber,autocite=footnote]{biblatex-chicago}
 \addbibresource{bibliography.bib}
 % % % \DefineBibliographyStrings{english}{%
 % %   references = {Works Cited},
 % % }
+\renewcommand{\cite}[2][0pt]{%
+  \sidenote[][#1]{\fullcite{#2}}%
+  }
 
 %   wrapfig
 \usepackage{wrapfig}
@@ -96,11 +99,11 @@ There were several codes which fall into a subjective field of determination. Th
   \end{tabular}
   \caption{The array of claims to legitimacy.}
 \end{table}
-the subjective interpretation of the author. A major component of the artists' web sites is how the artist establishes his or her legitimacy as a performer and/or composer. Some artists claimed several different types of legitimacy at the same time. For instance, Pierre Bensusan's web site claims his legitimacy through his musicality and through sponsorships. His sponsorships have been coded as a claim to legitimacy through material means. Another example of an artist claiming legitimacy through material means would be Alex Anderson, who makes a point to associate himself with the harp guitar. Another subject code was the appearance of the artist's web site. All of the artist web sites had pictures of the artist on the landing, or home, page. Some artists had color schemes which made the text illegible. The different visual displays that are utilized by finger-style guitarists span the last twenty years of graphic design on the internet. Some artists are closed about their art in that they do not display any indication that they are willing to teach someone their craft. Other artists are open about their art. Those that are open are open in different ways. Ewan Dobson and Mike Dawes offer lessons over Skype.
+the subjective interpretation of the author. A major component of the artists' web sites is how the artist establishes his or her legitimacy as a performer and/or composer. Some artists claimed several different types of legitimacy at the same time. For instance, Pierre Bensusan's web site claims his legitimacy through his musicality and through sponsorships. His sponsorships have been coded as a claim to legitimacy through material means. Another example of an artist claiming legitimacy through material means would be Alex Anderson, who makes a point to associate himself with the harp guitar. Another subject code was the appearance of the artist's web site. All of the artist web sites had pictures of the artist on the landing or home page. Some artists had color schemes which made the text illegible. The different visual displays that are utilized by finger-style guitarists span the last twenty years of graphic design on the internet. Some artists are closed about their art in that they do not display any indication that they are willing to teach someone their craft. Other artists are open about their art. Those that are open are open in different ways. Ewan Dobson and Mike Dawes offer lessons over Skype.
 \begin{margintable}\centering
   \small
   \begin{tabular}{p{0.4\textwidth} l l}\toprule
-    Question & yeses & noes \\\midrule
+    Question & yes & no \\\midrule
     mobile-friendly? & 22 & 19\\
     Adobe Flash? & 4 & 37\\
     https? & 7 & 34\\
@@ -143,23 +146,24 @@ The result of not making one's web site friendly to mobile users is lessened whe
     Truefire & 1\\
     WebsiteBuilder & 1\\
     Wix & 3\\
-    Wordpress & 1\\
+    Wordpress & 1\\\midrule
+    Total & 23\\
     \bottomrule
   \end{tabular}
   \vspace{6pt}  
   \caption{Distribution of discernable Content Management Systems among the
     web sites of finger-style guitarists.} 
 \end{margintable}
-An area of particular interest to me was the manner in which these web sites managed their content. I was able to determine the Content Management Systems (\textsc{cms}) of 23 sites as seen in Table 3. The most represented \textsc{cms} is Squarespace with 7 artists followed by Bandzoogle at 4 and Wix at 3. I find this interesting because some of these \textsc{cms}'s integrate components into their systems which may assist an artist in the management of his or her web site. For instance, Bandzoogle assists in creating mobile-friendly web sites with a web store, newsletters, streaming services, blogs, and a gig calendar.\autocite{bandzoogle} The web sites which did not have any discernible manner in which to determine content creation may or may not have been created and managed with a \textsc{cms}.
+An area of particular interest to me was the manner in which these web sites managed their content. I was able to determine the Content Management Systems (\textsc{cms}) of 23 sites as seen in Table 3. The most represented \textsc{cms} is Squarespace with 7 artists followed by Bandzoogle at 4 and Wix at 3. I find this interesting because some of these \textsc{cms}'s integrate components into their systems which may assist an artist in the management of his or her web site. For instance, Bandzoogle assists in creating mobile-friendly web sites with a web store, newsletters, streaming services, blogs, and a gig calendar.\cite[12pt]{bandzoogle} The web sites which did not have any discernible manner in which to determine content creation may or may not have been created and managed with a \textsc{cms}.
 
 One of the primary catalysts for this essay was to conduct a review of the distribution of sheet music within a digital finger-style domain. Almost every web site delivered their transcriptions in a different way. A few sites, such as Pierre Bensusans' had what appeared to be a custom built store. Others, such as Gareth Pearson, linked out to other venues such as CandyRat or Bandcamp. Many artists sold their products through PayPal in which the site redirected the customer to PayPal to make his or her purchase. Several sites, including Alex de Grassi's, delivered through a storefront created by their \textsc{cms}.
 
-Each difference in web site delivery can either enhance or detract from the user experience. This essay is a survey not discussion of expected graphical design components of a finger-style guitarist's web site.
+Each difference in the delivery of content can either enhance or detract from the user experience. This essay is only a survey, not a discussion, of expected graphical design components of a finger-style guitarist's web site.
 \section{Transcription}
-A distinguishing characteristic of the finger-style guitarist's website is a section of sheet music, scores, or transcriptions of the artist's works. This seems to be a unique component of the finger-style culture. Sadly, while the transcriptions are becoming marginally better than ansi-tab on the internet, the quality of the transcriptions produced by these musicians is not on par with the quality of playing or composition. This could be attributed to different factors, all of which are for another essay. Here I will discussed near-best practices for the production of finger-style transcriptions.
+A distinguishing characteristic of the finger-style guitarist's website is a section of sheet music, scores, or transcriptions of the artist's works. This seems to be a unique component of the finger-style culture. Sadly, while the transcriptions are becoming marginally better than ascii-tab on the internet, the quality of the transcriptions produced by these musicians is not on par with the quality of playing or composition. This could be attributed to different factors, all of which are for another essay. Here I will discussed near-best practices for the production of finger-style transcriptions.
 \subsection{Methods}
 \label{sec:methods}
-The primary method espoused by the University of Wisconsin-Milwaukee (\textsc{uwm}) and Stropes Editions, Ltd. (\textsc{sel}) is a double-impression method utilizing Finale and Adobe InDesign. The methods in this document are as follows: {\XeLaTeX} for the typesetting of this essay and the same double-impression method of Finale and Adobe InDesign used by \textsc{sel} and \textsc{uwm} for the transcription.
+The primary method espoused by Stropes Editions, Ltd. is a double-impression method utilizing Finale and Adobe InDesign. The methods used in this document are as follows: XeLaTeX for the typesetting of this essay and the same double-impression method of Finale and Adobe InDesign used by \textsc{sel} and \textsc{uwm} for the transcription. I also used FontForge to modify some of the fonts that are used in Finale.
 
 \subsection{Typography}
 \label{sec:typography}
@@ -196,7 +200,7 @@ There must to be a time when one makes a decision knowing all of the positives a
 \section{Conclusions}
 \label{sec:conclusions}
 
-There can only be one conclusion to an essay such as this: there is no conclusion. The technologies involved in constructing both web sites and finger-style transcriptions is in a constant state of development. The prevalence of the mobile platform has become near-ubiquitous within the last five years. The manner in which finger-style guitar transcriptions are produced has changed drastically in the last twenty years. The software that is available to produce finger-style guitar transcriptions are at the users fingertips, a mere download away. While this software may not produce professional-grade transcriptions on the same level as an \textsc{sel} transcription, they have helped begin the process of taking guitar tablature out of the dark ages of ansi-tab. It is not possible to conclude how the future of finger-style guitar is going pan out. What \emph{can} be concluded is that it is incredible to be a finger-style guitarist in an age in which finger-style guitar is experiencing a renaissance. There is a distinct possibility that someone I know may come across or benefit greatly from some new technology that cannot be imagined.
+There can only be one conclusion to an essay such as this: there is no conclusion. The technologies involved in constructing both web sites and finger-style transcriptions is in a constant state of development. The prevalence of the mobile platform has become near-ubiquitous within the last five years. The manner in which finger-style guitar transcriptions are produced has changed drastically in the last twenty years. The software that is available to produce finger-style guitar transcriptions are at the users fingertips, a mere download away. While this software may not produce professional-grade transcriptions on the same level as an \textsc{sel} transcription, they have helped begin the process of taking guitar tablature out of the dark ages of ascii-tab. It is not possible to conclude how the future of finger-style guitar is going pan out. What \emph{can} be concluded is that it is incredible to be a finger-style guitarist in an age in which finger-style guitar is experiencing a renaissance. There is a distinct possibility that someone I know may come across or benefit greatly from some new technology that cannot be imagined.
 
 \nocite{alexAnderson,alexDeGrassi,andrewWhite,andyMcKee,billyMcLaughlin,adamRafferty,calumGraham,cliveCarroll,craigDAndrea,evaAtmatzidou,ewanDobson,garethPearson,happyTraum,ianEthanCase,janetFeder,jimmyWahlsteen,jonGomm,kakiKing,kellyValleau,kevinHorrigan,leoKottke,lucaStricagnoli,lucasMich,masaakiKishibe,michaelChap,michaelGul,mikeDawes,murielAnders,peppino,peterCiluzzi,peterFinger,pierre,rayMontford,pino,spencerElliot,sunghaJung,thomasLeeb,timSparks,tommyEmmanuel,trevorGH,vickiGenfan}
 % \bibliographystyle{chicagoa}

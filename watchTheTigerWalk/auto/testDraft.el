@@ -3,6 +3,8 @@
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("tufte-handout" "nofonts" "nobib")))
+   (TeX-add-to-alist 'LaTeX-provided-package-options
+                     '(("biblatex-chicago" "backend=biber" "autocite=footnote")))
    (TeX-run-style-hooks
     "latex2e"
     "tufte-handout"
