@@ -49,6 +49,7 @@
     "adobeFlash"
     "statCounter2"
     "internetArchive"
-    "bandzoogle"))
+    "bandzoogle"
+    "duffner"))
  :bibtex)
 

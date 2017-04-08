@@ -26,6 +26,8 @@
     "sec:methods"
     "fig:somthing"
     "sec:typography"
+    "sec:web-site-development"
+    "sec:watch-tiger-walk"
     "sec:conclusions")
    (LaTeX-add-bibliographies
     "bibliography"))
