@@ -32,7 +32,11 @@
     "sec:conclusions"
     "sec:appendix-1"
     "dataset1"
-    "sec:appendix-2")
+    "sec:appendix-2"
+    "sec:appendix-3"
+    "dataset3"
+    "sec:appendix-4"
+    "dataset4")
    (LaTeX-add-bibliographies
     "bibliography"))
  :latex)
