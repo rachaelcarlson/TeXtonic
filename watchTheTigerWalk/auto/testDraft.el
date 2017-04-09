@@ -13,6 +13,7 @@
     "ifxetex"
     "booktabs"
     "lipsum"
+    "longtable"
     "biblatex-chicago"
     "wrapfig")
    (TeX-add-symbols
@@ -28,7 +29,10 @@
     "sec:typography"
     "sec:web-site-development"
     "sec:watch-tiger-walk"
-    "sec:conclusions")
+    "sec:conclusions"
+    "sec:appendix-1"
+    "dataset1"
+    "sec:appendix-2")
    (LaTeX-add-bibliographies
     "bibliography"))
  :latex)
