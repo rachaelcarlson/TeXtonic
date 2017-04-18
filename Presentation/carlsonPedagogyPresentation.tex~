@@ -1,0 +1,26 @@
+\documentclass[xetex,mathserif]{beamer}
+
+
+\usepackage{fontspec}
+\setromanfont{EB Garamond}
+\setsansfont{Noto Sans}
+
+\setbeamerfont{title}{family=\rm}
+\usetheme{Warsaw}
+\usecolortheme{seahorse}
+
+\title{Onward}
+\subtitle{Bringing Finger-Style Guitar to Other Universities}
+\author{Rachael Carlson}
+\institute{University of Wisconsin-Milwaukee}
+\date{April 19, 2017}
+
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
