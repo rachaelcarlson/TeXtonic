@@ -1,7 +1,16 @@
 * Outline
 ** Purpose
-The purpose of this project is to attempt to ready myself for 
+The purpose of this project is to attempt to ready myself for life outside
+the university. One of the goals of this project is to help me spend as little
+time outside as possible. In producing this paper, I attempt to anticipate the
+components of a proposal for a finger-style guitar program which would most
+likely entice or convince an institution of higher education of the importance
+of offering such a program.
 ** Tactics
+*** Situation
+Situate finger-style guitar within its context by providing a detailed survey
+of the history of the guitar.
+
 ** History
 ** Interviews
 *** With whom?
