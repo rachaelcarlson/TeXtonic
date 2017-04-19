@@ -2,7 +2,7 @@
  "carlsonPedagogyPresentation"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
-                     '(("beamer" "xetex" "mathserif")))
+                     '(("beamer" "xetex" "mathserif" "14pt")))
    (add-to-list 'LaTeX-verbatim-environments-local "semiverbatim")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
@@ -16,6 +16,7 @@
     "latex2e"
     "beamer"
     "beamer10"
-    "fontspec"))
+    "fontspec"
+    "booktabs"))
  :latex)
 
