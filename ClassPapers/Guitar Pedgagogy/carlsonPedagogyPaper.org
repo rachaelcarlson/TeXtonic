@@ -1,0 +1,26 @@
+#+STARTUP: showall
+#+TITLE: Onward: Bringing Finger-Style Guitar to Other Universities
+#+AUTHOR: Rachael Carlson
+#+DATE: \today
+
+* Introduction
+
+* Tactics 
+
+** Situation
+
+*** Contextualization
+
+*** Historiography
+
+** Projection
+
+** Personal Growth
+
+* Institutions
+
+** Interviews
+
+* The Speech
+
+* Conclusiong

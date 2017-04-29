@@ -1,0 +1,52 @@
+\documentclass[12pt]{article}        
+
+\usepackage{fontspec}
+\setmainfont{FreeSerif}
+
+\usepackage[margin=1in]{geometry}
+\title{Onward: \\ Bringing Finger-Style Guitar to Other Universities}
+\author{Rachael Carlson}
+\date{\today}
+
+\begin{document}
+
+\maketitle        
+\tableofcontents
+
+\section{Introduction}
+\label{sec:introduction}
+The intention of this paper is to establish a foundation upon which a can be
+built 
+
+
+\section{Tactics}
+
+\label{sec:tactics}
+
+\subsection{Situation}
+\label{sec:situation}
+
+\subsection{Projection}
+\label{sec:projection}
+
+\subsection{Personal Growth}
+\label{sec:personal-growth}
+
+\section{Intitutions}
+\label{sec:intitutions}
+
+\section{Interviews}
+\label{sec:interviews}
+
+\section{The Speech}
+\label{sec:speech}
+
+\section{Conclusions}
+\label{sec:conclusions}
+
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

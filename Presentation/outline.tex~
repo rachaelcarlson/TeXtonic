@@ -1,0 +1,224 @@
+% Created 2017-04-19 Wed 00:50
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\author{Rachael Carlson}
+\date{\today}
+\title{outline}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 25.2.1 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Outline}
+\label{sec-1}
+\subsection{Purpose}
+\label{sec-1-1}
+\begin{itemize}
+\item The purpose of this project is to attempt to ready myself for life outside
+the university. One of the goals of this project is to help me spend as
+little time outside the university as possible. In producing this paper, I
+attempt to anticipate[slide] the components of a proposal for a
+finger-style guitar program which would most likely entice or convince an
+institution of higher education of the importance of offering such a
+program. I then prepare[slide] for as many anticipated components as
+possible. At the moment I see this as entailing three different
+tactics[slide]: situating[slide] the guitar within its contexts;
+projecting[slide] into the future (think anticipation); and
+professional[slide] development of myself as an instructor.
+\end{itemize}
+\subsection{Tactics}
+\label{sec-1-2}
+\begin{itemize}
+\item Situation: placing finger-style guitar within its contexts both
+contemporary and historical.
+
+\item Projection: attempting to anticipate changes in finger-style guitar
+instruction, performance, and composition as a way in which to
+excite. Also, a projection into the benefits that a university may
+experience with the inclusion of a finger-style program.
+
+\item Personal Growth: Curriculum Vitae
+\end{itemize}
+\subsubsection{Situation}
+\label{sec-1-2-1}
+\begin{enumerate}
+\item Contextualization
+\label{sec-1-2-1-1}
+\begin{itemize}
+\item Situate finger-style as a manner of playing the instrument within different
+contexts[slide]. Historical: race and hillbilly records, Ragtime, parlor
+guitar. Regional: Hawaiian, Russian, Venezuala/Argentina/South America,
+British, French\ldots{} By Genre: Rock, hip hop, indie, finger-style as a
+genre\ldots{}
+\end{itemize}
+\item Historiography
+\label{sec-1-2-1-2}
+\begin{itemize}
+\item Be prepared to answer all manner of questions relating to the history of
+finger-style guitar and the guitar in general. Due to the nature of playing
+the instrument, be prepared to answer major questions about the
+lute---mostly relating to the renaissance and baroque lutes.
+
+\item Most importantly, known the history of finger-style guitar as a genre. This
+cannot but be a biased account of the history. I think that we must embrace
+this bias and give the best account possible knowing that we can change our
+understanding of history with new evidence.
+\end{itemize}
+\end{enumerate}
+\subsubsection{Projection}
+\label{sec-1-2-2}
+\begin{enumerate}
+\item Future Developments
+\label{sec-1-2-2-1}
+\begin{itemize}
+\item Anticipate[slide], as thoroughly as possible, the potential avenues in
+which finger-style guitar may travel. Anticipate its popularity by
+reflecting on how it has been growing. If possible, use qualitative
+information to do this.
+
+\item Other disciplines within the musical academy seem to have canonized their
+repertoire. Is this desirable? Should the music of finger-style guitar as a
+genre be canonized? Or is it more helpful for the music to resist
+canonization? Is it better to be inclusive or exclusive?
+\begin{itemize}
+\item One interesting area to think about would be the difference in repertoire
+from 2006 to 2017. The amount of repertoire available to the student of
+finger-style guitar in 2006 was much less than the student of 2017. Is
+this a good thing? I am reminded of \emph{The Paradox of Choice: Why More is
+Less} (2004) by American psychologist Barry Schwartz.
+\end{itemize}
+\end{itemize}
+
+\item Potential Gains
+\label{sec-1-2-2-2}
+\begin{itemize}
+\item Think about different ways in which the offering a finger-style guitar track
+in a guitar program could benefit a university.
+\item From a monetary point of view, it is possible, due to the rising popularity
+of finger-style guitar as a genre, that a school, with the right backing,
+marketing, and encouragement, could generate a hefty amount of cash from
+bringing in students from all of the world to study at their university.
+\item A more practical gain, and certainly one which I would find more interest,
+is in the scholarly gains which could be had from offering a program. I can
+see it now, a university which able to establish the relationship between
+the parlor guitar, the Sears-Roebuck Catalog, and the rise of folk music in
+the United States through the thread of finger-style guitar.
+\begin{itemize}
+\item I can see a peer-reviewed journal published by a university guitar
+program, a feat which I am unaware of in general let alone for a
+finger-style program.
+\end{itemize}
+\item Can you think of other ways in which a university might benefit from having
+a finger-style guitar track?
+\end{itemize}
+\end{enumerate}
+\subsubsection{Personal Growth}
+\label{sec-1-2-3}
+\begin{enumerate}
+\item Compositions
+\label{sec-1-2-3-1}
+\begin{itemize}
+\item The production of an album of music may help to establish my credibility.
+\item The actual composition of music seems to set the finger-style guitarist
+apart from his or her classical, nylon-string guitar counterpart
+\end{itemize}
+\item Performances
+\label{sec-1-2-3-2}
+\begin{itemize}
+\item Prestigious performances all of the globe
+\end{itemize}
+\item Publications
+\label{sec-1-2-3-3}
+\begin{itemize}
+\item Magazines, Music Blogs, Scholarly Journals, Transcriptions and other Sheet
+Music, books
+\end{itemize}
+\item Other Ideas?
+\label{sec-1-2-3-4}
+\begin{itemize}
+\item Can you think of other ways in which a finger-style guitarist could help
+establish his or her credibility in the eyes of a university
+\end{itemize}
+\end{enumerate}
+
+\subsection{Institutions}
+\label{sec-1-3}
+\begin{itemize}
+\item This list is far too short. There must be others out there that teach
+finger-style guitar at the collegiate level. Some of them, like a few I am
+about to mention, probably offer finger-style lessons but do not advertise
+as such.
+\item While I wanted to add Antoine Dufour and Adam Cord to this list, I was
+unable to determine the institution with which they were respectively
+associated.
+\item Michael Chapdelaine teaches classical and finger-style guitar at the
+University of New Mexico. In an interview, he stated that he blurs the
+lines between classical and finger-style. Once a student has reached a
+certain level he or she is able to study finger-style guitar.
+\item Sean McGowan teaching finger-style jazz and commercial guitar at the
+University of Colorado-Denver. I look forward to speaking with him about
+his pedagogical approaches. Alex de Grassi stated in an interview that
+McGowan offers a class on finger-style guitar which uses both de Grassi and
+McGowen's respective finger-style methods. McGowan's being a jazz
+finger-style method.
+\item Michael Millham teaches classical guitar at Eastern Washington
+University. Will Boulé and Alex de Grassi indicates that he offers
+finger-style lessons.
+\item John Stropes is no stranger to anyone here. It is worth noting that John
+Stropes has a long history in guitar instruction and publication. The UWM
+program was initially formed through a joint venture with the Wisconsin
+Conservatory of Music and UWM. John can you speak a little about the
+creation of this program?
+\end{itemize}
+
+\subsection{Interviews}
+\label{sec-1-4}
+\begin{itemize}
+\item I plan to interview the people that I have just mentioned in order to
+determine out how they got where they are and how I can get there.
+\item I am also looking for recommendations from these individuals for a course
+of action.
+\end{itemize}
+
+\subsection{Elevators}
+\label{sec-1-5}
+\begin{itemize}
+\item I do not currently have an elevator speech for this paper. I anticipate
+that this will be the most difficult aspect of this work. It will be like a
+puzzle in the removal and movement of text will result in a different
+picture.
+\end{itemize}
+
+\subsection{Conclusion}
+\label{sec-1-6}
+\begin{itemize}
+\item In conclusion, this paper is designed to be as practical as possible. In
+doing so, it has become massive. I will not be able to get to everything
+that I have talked about. I do not anticipate that this will be an easy
+process. Like those trail blazers before me, I hope to find a path which
+will lead toward the benefit of finger-style guitar and the
+self-sufficiency that is a hallmark of success.
+\end{itemize}
+
+Thank you.
+% Emacs 25.2.1 (Org mode 8.2.10)
+\end{document}
