@@ -1,0 +1,36 @@
+\documentclass[12pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle]{Adobe Garamond Pro}
+\setsansfont[Numbers=OldStyle]{Roboto}
+\setmonofont{Adobe Garamond Pro}
+\usepackage{hyperref}
+\usepackage[]{biblatex-chicago}
+\addbibresource{bibliography.bib}
+
+\begin{document}
+\noindent Rachael Carlson\\
+Music 314\\
+Reading Response 8\\
+\today\\
+
+\noindent\fullcite{clague}\\
+
+\noindent I have a lot of memories of my parents's reaction to me listening to Jimi Hendrix in the house. My parents were still together; they are now happily divorced. I was just starting to play the guitar. I was mostly playing electric guitar. The reactions of my parents were quite interesting. I believe that my mother tuned-out the music; she was able to be in the same room as I was when listening. My father, on the other hand, had a similar reaction to the individuals that Dick Cavett would have expected when anticipating the hate-mail that he would receive for having Hendrix on his show after the Woodstock appearance.\autocite{hendrixWoodstock} The idea that someone can interpret an anthem as he or she wishes with no regard for white-man decorum was the antithesis of my father’s way that he viewed others. 
+
+I am surprised that Mark Clague only talks about Hendrix’s arrangement of “The Star-Spangled Banner” as a tone poem. One only has to look Hendrix’s later compositions performed with Band of Gypsys, in particular “Machine Gun.” This lengthy composition explores the possible sounds of the guitar in much the same way that one would expect Liszt or Strauss to explore the sounds of an orchestra or a piano. In a lyric which is reminiscent in structure to the blues Hendrix sings “Evil man make me kill you/Evil man make you kill me/Evil man make me kill you/Even though we’re only families apart.” The guitar then wails in response to this line much in the same way that one might hear the piano respond to the content of the vocal line in a Schubert lied.
+
+I enjoy reading literature which raises the awareness of the reader on a topic which had been heretofore relegated in the reader’s mind to low art. It is also quite refreshing to read something which pushes for greater acceptance of the veracity of an African American composer. I think that Clague did a good job indicating that Hendrix was not respected in the manner in which Clague felt that he should be.\\
+
+\noindent\fullcite{lewis}.\\
+
+``Indeed, the musicians were often called ``crazy''---an appellation often assigned to oppositional [\emph{sic}] forces, either by the dominant order itself or by members of an oppressed group who, however onerous their present situation, are fearful of the consequences of change.'' (135)
+
+This is an extremely interesting statement. I think that it would be very interesting to see where this assertion can from. I believe that it is entirely true; however, I believe that there must be some sort of evidence to back up this statement. It would be easy for someone to internalize this sentiment and then turn around an police the language of the dominant culture. Is this beneficial? Well, I believe that it becomes beneficial when the dominant culture recognizes how it uses language to devalue individual and collective contribution. This reminds me of the manner in which sports broadcasters talk about football players. They frequently use language such as ``he's an animal'' and ``he's a monster'' when describing a black football player. They will frequently use language as ``he's such an intelligent player'' and ``he is a leader'' when describing a white football player, especially quarterbacks. While I would not tell a sports broadcaster to stop calling black players animals, I would try to show the broadcaster how he or she is perpetuating racist language. I would not view this as political correctness. I would view this as letting someone know that he or she is being racist---a completely different statement.
+Real-time music
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
