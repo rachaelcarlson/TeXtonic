@@ -3,5 +3,6 @@
  (lambda ()
    (LaTeX-add-bibitems
     "slavin1991"
-    "urquhart2011")))
+    "urquhart2011"
+    "murphy2008")))
 
