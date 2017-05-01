@@ -1,0 +1,20 @@
+\documentclass[12pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle]{Adobe Garamond Pro}
+\setsansfont[Numbers=OldStyle]{Roboto}
+\setmonofont{Adobe Garamond Pro}
+\usepackage{hyperref}
+\usepackage[]{biblatex-chicago}
+\addbibresource{bibliography.bib}
+
+\begin{document}
+\noindent Rachael Carlson \hfill \today\\
+Music 314 \hfill Due Date: April 17, 2017\\
+Reading Response 10\\
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
