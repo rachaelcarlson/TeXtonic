@@ -1,0 +1,19 @@
+\documentclass[12pt]{article}
+\usepackage{fontspec}
+\setmainfont{FreeSerif}
+
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+\noindent Rachael Carlson\\
+\noindent Spring Semester, 2017\\
+\noindent MUSPERF 746-804\\
+\vspace{.15in}
+\noindent Repertoire\\
+\vspace{.15in}
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

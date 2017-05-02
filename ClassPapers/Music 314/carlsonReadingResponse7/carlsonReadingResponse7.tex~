@@ -1,0 +1,28 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{xltxtra}
+\defaultfontfeatures{Ligatures=Common,
+Numbers=OldStyle,
+Scale=MatchLowercase
+}
+\usepackage[backend=biber,isbn=false]{biblatex-chicago}
+\addbibresource{references.bib}
+
+\begin{document}
+\noindent Rachael Carlson \hfill \today\\
+\noindent Reading Response 7 \hfill Due Date: March 13, 2017\\
+\noindent Music 314\\
+
+\noindent \fullcite{fauser2013}.\\
+
+\noindent There are many interesting points of discussion in this paper. I am particularly interested in propaganda in general as well as how the OWI interacted with the AFM. Then there is the whole component of the government's interaction with music, especially classical music. I had a class some time ago where we discussed the benefits and detriments of having the government support the arts. I recently had a discussion with Ewan Dobson, a Canadian guitarist. He was complaining about the Canadian government's interaction with music. In Canada, a performing venue needs to ensure that a certain percentage of its performers are Canadian. From Dobson's perspective, these performing artists need to be members of an organization within the Canada government's ministry of culture (I think this is true). Dobson then went on to talk about how difficult it is to be a member of this organization if you are not a liberal. It seemed to me that Dobson thought that there was a conspiracy against artists who did not agree with the liberal Canadian government.
+
+It is difficult to tell if Dobson is telling the truth; however, it does raise an interesting point: how does the government, supposedly a neutral party, decide which artists to provide with assistance? Who deserves the money from the government for his or her contributions to his or her country's culture? Should money be given out to any one who applies? Would it be acceptable for the government to give assistance to a Nazi punk band while giving money to an anarchist punk band? I only use punk music as that is the music which seems to my mind to be most defined by its political stance. Or should the government not give money to artists who voice a political opinion? I would be interested to look further into how governments that assist artists actually assist their artists. What decisions have been made? What are some areas that appear to foster favoritism? I am reminded of the great Canadian TV series \emph{Slings \& Arrows} in which the Shakespeare festival needs to ask the Minister of Culture for money. The Minister of Culture is portrayed as somewhat fast and loose with how the money is allocated. She seems to give it to whom she pleases --- an interesting portrayal.  \\
+
+\noindent \fullcite{goehr1999}.\\
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
