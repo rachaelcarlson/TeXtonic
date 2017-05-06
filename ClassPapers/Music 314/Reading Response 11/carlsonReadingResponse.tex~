@@ -1,0 +1,40 @@
+\documentclass[12pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle]{Adobe Garamond Pro}
+\setsansfont[Numbers=OldStyle]{Roboto}
+\setmonofont{Adobe Garamond Pro}
+\usepackage{hyperref}
+\usepackage[]{biblatex-chicago}
+\addbibresource{bibliography.bib}
+
+\begin{document}
+\noindent Rachael Carlson \hfill \today\\
+\noindent Reading Response 11\\
+\noindent Music 314\\
+
+% Several of this week's readings (Kristen, McSweeney, Ross) deal with
+% the question of gender representation in the programming practices
+% of art music institutions. In the discourse that these readings are
+% drawn from, one of the key debates is over the methods that could be
+% used to change the existing paradigms. Two of the most commonly
+% asserted solutions are 1) to purposefully and aggressively program
+% composers from underrepresented populations or 2) to focus on
+% program newer music, with the assumption that the statistics with
+% will even out based on the changing demographics of the pool of
+% composers.
+
+% Referring to specific ideas from these readings, briefly respond to
+% this discourse, taking a stance if you have one, or outlining the
+% key arguments in play.
+
+Ross and Kirsten seem to be on the same page in regards to the
+programming of new music and that music's relationship to gender. They
+take the stance that if more new music is presented in classical/art
+music venues I am not on this page.
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
