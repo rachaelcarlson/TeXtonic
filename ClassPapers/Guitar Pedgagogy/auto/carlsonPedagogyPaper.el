@@ -15,6 +15,8 @@
     "sec:introduction"
     "sec:tactics"
     "sec:situation"
+    "sec:history-guitar"
+    "sec:history-finger-style"
     "sec:projection"
     "sec:personal-growth"
     "sec:intitutions"
