@@ -3,6 +3,8 @@
  (lambda ()
    (LaTeX-add-bibitems
     "austin1989"
-    "brindle"))
+    "brindle"
+    "candyrat"
+    "righteous"))
  :bibtex)
 
