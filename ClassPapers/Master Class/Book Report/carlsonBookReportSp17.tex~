@@ -1,0 +1,10 @@
+\documentclass[12pt]{article}
+
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle]{Garamond Premier Pro}
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
