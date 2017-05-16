@@ -1,0 +1,20 @@
+\documentclass[12pt]{article}
+
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX,Mapping=tex-text,Numbers=OldStyle]{Garamond Premier Pro}
+\setmonofont{Garamond Premier Pro}
+
+\usepackage[]{biblatex-chicago}
+\addbibresource{references.bib}
+
+\author{Rachael Carlson}
+\title{Music 314: \\ Final Exam Take-Home Essays}
+\date{\today}
+
+\begin{document}
+\maketitle
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
