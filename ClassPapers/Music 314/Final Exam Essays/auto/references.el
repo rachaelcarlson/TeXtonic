@@ -2,6 +2,8 @@
  "references"
  (lambda ()
    (LaTeX-add-bibitems
-    "week9"))
+    "week9"
+    "lewis"
+    "temple"))
  :bibtex)
 
