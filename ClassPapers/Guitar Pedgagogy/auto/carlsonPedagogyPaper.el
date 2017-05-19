@@ -11,7 +11,8 @@
     "art12"
     "fontspec"
     "geometry"
-    "biblatex-chicago")
+    "biblatex-chicago"
+    "pdfpages")
    (LaTeX-add-labels
     "sec:introduction"
     "sec:tactics"
@@ -23,9 +24,7 @@
     "sec:composer"
     "sec:performer"
     "sec:scholar"
-    "sec:intitutions"
     "sec:interviews"
-    "sec:speech"
     "sec:conclusions")
    (LaTeX-add-bibliographies
     "bibliography"))
